@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 ![Me](img/header_photo2.png)
 
 ![Github profile](ico/github/github_icon.png) [Github](https://github.com/armatita)
