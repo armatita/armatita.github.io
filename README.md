@@ -53,7 +53,9 @@ a GUI supported environment.
 
 # Peer-Reviewed Articles, Conference Paper & Posters
 
-J.M. Chautru, N. Nosjean-Gorgeu, D. Renard, H. Binet and P. Correia; [A Case Study Of A New Time-Depth Conversion Workflow Designed For Optimizing Recovery](http://www.earthdoc.org/publication/publicationdetails/?publication=93943), ECMOR XVI - 16th European Conference on the Mathematics of Oil Recovery - ECMOR XVI Poster Session 2, 3 September 2018, DOI: 10.3997/2214-4609.201802197 
+H. Binet, P. Correia, N. Nosjean-Gorgeu, D. Renard, F. Geffroy, J.M. Chautru, D. Garner, [Proper Systemic Knowledge of Reservoir Volume Uncertainties in Depth Conversion](http://www.cspg.org/cspg/documents/Conference%20Website/Gussow/Archives/2018/Extended/Poster/D.Garner.pdf), Closing the Gap III - Advances in Applied Geomodeling for Hydrocarbon Reservoirs, October 8-11, Lake Louise, Alberta - Canada (2018)
+
+J.M. Chautru, N. Nosjean-Gorgeu, D. Renard, H. Binet and P. Correia; [A Case Study Of A New Time-Depth Conversion Workflow Designed For Optimizing Recovery](http://www.earthdoc.org/publication/publicationdetails/?publication=93943), ECMOR XVI - 16th European Conference on the Mathematics of Oil Recovery - ECMOR XVI Poster Session 2, 3 September 2018, DOI: 10.3997/2214-4609.201802197 (2018)
 
 Nunes R., Correia P., Soares A., Costa J.F.C.L, L.E.S. Varella, Neto G.S., Silka M.B., Barreto B.V., Ramos T.C.F., Domingues M.; 
 [Gradient Pore Pressure Modelling with Uncertain Well Data](http://www.earthdoc.org/publication/publicationdetails/?publication=82232), 
