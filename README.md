@@ -1,6 +1,4 @@
----
-layout: home
----
+
 
 ![Me](img/header_photo2.png)
 
