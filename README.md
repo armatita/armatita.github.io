@@ -18,7 +18,7 @@ for Android and frequently releases online publications and software.
 
 # Commercial Software
 
-[Isatis.neo](https://www.geovariances.com/en/software-geovariances/) - I've developed tools for this and other software solutions in Geovariances. Isatis.neo and other Geovariances products use geostatistics to perforç spatial estimation in several sectors related to spatial imaging, namely Oil & Gas, Mining, Environment, Hydrogeology, Contamination, etc.
+[Isatis.neo](https://www.geovariances.com/en/software-geovariances/) - It developed tools for this and other software solutions in Geovariances. Isatis.neo and other Geovariances products use geostatistics to perform spatial estimation in several sectors related to spatial imaging, namely Oil & Gas, Mining, Environment, Hydrogeology, Contamination, etc.
 
 [UncerTZ/Isatis.neo Petroleum](https://www.geovariances.com/en/news/uncertz-consortium-time-depth-conversion-evolved/) - As part of a research and development consortium a time to depth conversion software was developed, later added as the Oil & Gas oriented edition of Isatis.neo. This software uses geostatistics, among other techniques, to perform a series of operations regarding the fields of Geophysics and Reservoir Engineering. 
 
