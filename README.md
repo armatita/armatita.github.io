@@ -62,6 +62,13 @@ a GUI supported environment.
 * [Geostatistics](https://fenix.tecnico.ulisboa.pt/disciplinas/G4517957/2018-2019/1-semestre) - For both Mining and Geology Engineering and Petroleum Engineering at Msc level, IST University (2014/2015).
 * [Stochastic Modeling of Oil Reservoirs](https://fenix.tecnico.ulisboa.pt/disciplinas/MRP3645111326/2017-2018/2-semestre/pagina-inicial) - For Petroleum Engineering at Msc level, IST University (2014/2015).
 
+# Scientific Publications & E-Books
+
+* [Modelação e Estimação – Uma introdução à Geoestatística (2010)](http://www.leg.ufpr.br/lib/exe/fetch.php/disciplinas:geoesalq:pira2012:numist_-_modelacao_e_estimacao_-sgems.pdf) (en: *Modeling and Estimation - An introduction to Geostatistics*) - This was a publication made to support Geostatics students at IST. It was originally released as a free e-book to [numist](http://numist.tecnico.ulisboa.pt/~numist.daemon/) student association which me and a group of colleagues had just founded. However I'm linking some other repository because the original seems to be down.
+* [Introdução à programação Parte I -Octave (2010)](https://www.researchgate.net/publication/268811857_Introducao_a_programacao_Parte_I_-Octave) (en: *Introducation to Programming: Octave*)- A publication made to explain programming concepts and data analysis using programming language [Octave](https://www.gnu.org/software/octave/). It's written in Portuguese.
+* [Introdução à programação Parte II -Python (2011)](https://www.researchgate.net/publication/268811866_Introducao_a_programacao_Parte_II_-Python) (en: *Introduction to Programming: Python (2011)*)- A publication made to explain programming concepts, data analysis, UI development, and scientifica visualization using programming language [Python](https://www.python.org/) plus a number of external libraries (numpy, scipy, matplotlib, wxwidgets, etc.).  It's written in Portuguese.
+* [Introdução à programação – Parte 3 - SAGE (2011)](https://www.researchgate.net/publication/268811870_Introducao_a_programacao_-_Parte_3_-_SAGE) (en: *Introduction to Programming: Sage*) - A publication made to explain programming concepts and data analysis using programming language [Sage](http://www.sagemath.org/). It's written in Portuguese.
+
 # Peer-Reviewed Articles, Conference Paper & Posters
 
 H. Binet, P. Correia, N. Nosjean-Gorgeu, D. Renard, F. Geffroy, J.M. Chautru, D. Garner, [Proper Systemic Knowledge of Reservoir Volume Uncertainties in Depth Conversion](http://www.cspg.org/cspg/documents/Conference%20Website/Gussow/Archives/2018/Extended/Poster/D.Garner.pdf), Closing the Gap III - Advances in Applied Geomodeling for Hydrocarbon Reservoirs, October 8-11, Lake Louise, Alberta - Canada (2018)
