@@ -69,6 +69,11 @@ a GUI supported environment.
 * [Introdução à programação Parte II -Python (2011)](https://www.researchgate.net/publication/268811866_Introducao_a_programacao_Parte_II_-Python) (en: *Introduction to Programming: Python (2011)*)- A publication made to explain programming concepts, data analysis, UI development, and scientifica visualization using programming language [Python](https://www.python.org/) plus a number of external libraries (numpy, scipy, matplotlib, wxwidgets, etc.).  It's written in Portuguese.
 * [Introdução à programação – Parte 3 - SAGE (2011)](https://www.researchgate.net/publication/268811870_Introducao_a_programacao_-_Parte_3_-_SAGE) (en: *Introduction to Programming: Sage*) - A publication made to explain programming concepts and data analysis using programming language [Sage](http://www.sagemath.org/). It's written in Portuguese.
 
+# White Papers
+
+* [An introduction to "collective publishing"](https://www.researchgate.net/publication/262796853_An_introduction_to_collective_publishing) (2014) - Considering the current state of communication technology this article hopes to expose a new concept, henceforth called “collective publishing”, which allows users to create their own journals and magazines without the need for sophisticated and highly proficient teams and software.
+* [Learning Game: The Math Adventures of Oscar](https://www.researchgate.net/publication/277776242_Learning_Game_The_Math_Adventures_of_Oscar) (2015) - The game was developed to train memory and mathematical reasoning of children in the ages of 5 to 9 and was largely adapted from the concept of casual gaming, typically a kind of game with a small amount of required commitment where the game-play is extremely intuitive and it has a “just to pass the time” state of mind. This article documents the development and the chosen method of commercialization for this game.
+
 # Peer-Reviewed Articles, Conference Paper & Posters
 
 H. Binet, P. Correia, N. Nosjean-Gorgeu, D. Renard, F. Geffroy, J.M. Chautru, D. Garner, [Proper Systemic Knowledge of Reservoir Volume Uncertainties in Depth Conversion](http://www.cspg.org/cspg/documents/Conference%20Website/Gussow/Archives/2018/Extended/Poster/D.Garner.pdf), Closing the Gap III - Advances in Applied Geomodeling for Hydrocarbon Reservoirs, October 8-11, Lake Louise, Alberta - Canada (2018)
@@ -108,7 +113,3 @@ Azevedo L., Nunes R., Correia P., et al;
 [Seismic Attributes for Constraining Geostatistical Seismic Inversion](http://geostats2012.nr.no/pdfs/1747979.pdf), 
 [Ninth International Geostatistics Congress](http://geostats2012.nr.no/) 01/2012; (2012)
 
-# White Papers
-
-* [An introduction to "collective publishing"](https://www.researchgate.net/publication/262796853_An_introduction_to_collective_publishing) (2014) - Considering the current state of communication technology this article hopes to expose a new concept, henceforth called “collective publishing”, which allows users to create their own journals and magazines without the need for sophisticated and highly proficient teams and software.
-* [Learning Game: The Math Adventures of Oscar](https://www.researchgate.net/publication/277776242_Learning_Game_The_Math_Adventures_of_Oscar) (2015) - The game was developed to train memory and mathematical reasoning of children in the ages of 5 to 9 and was largely adapted from the concept of casual gaming, typically a kind of game with a small amount of required commitment where the game-play is extremely intuitive and it has a “just to pass the time” state of mind. This article documents the development and the chosen method of commercialization for this game.
