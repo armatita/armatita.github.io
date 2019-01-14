@@ -117,13 +117,13 @@ Part XVII - Modeling of Energy Resources, p.565, DOI: 10.1007/978-3642-324086_12
 [Seismic Attributes for Constraining Geostatistical Seismic Inversion](http://geostats2012.nr.no/pdfs/1747979.pdf), 
 [Ninth International Geostatistics Congress](http://geostats2012.nr.no/) 01/2012; (2012)
 
-# Music
+# Musical composition & Songwriting
 
-* [A Procura (The Search)](https://soundcloud.com/pedro-correia-712367707/a-procura) - This was an early sketch of a music for a video game (a kind of point and click crime novel) that was never finished. This is the type of music made to be played in loop (thus the repetition).
+* [A Procura (The Search)](https://soundcloud.com/pedro-correia-712367707/a-procura) - This was an early sketch of a music for a video game (a kind of point and click crime novel) that was never finished. This is the type of music made to be played in loop (thus the repetition). It was made to give a sense of investigation, mystery, a searching for answers.
 
 * [WALF - Tema Principal (Main Theme)](https://soundcloud.com/pedro-correia-712367707/main-menu-theme) - This was an early sketch of a music for a video game (a kind of point and click crime novel) that was never finished. This particular track was made to be played in the main menu.
 
-* [Sozinho na tua cor (Alone in your color)](https://soundcloud.com/pedro-correia-712367707/sozinho-na-tua-cor-myspace) - Songwritting in my university days, when activism was a very relevant portion of my life.
+* [Sozinho na tua cor (Alone in your color)](https://soundcloud.com/pedro-correia-712367707/sozinho-na-tua-cor-myspace) - Songwriting in my university days, when social/ethical activism was a daily routine (released under the pseudonym Duarte Remna). It speaks about isolation, loneliness, indinference and prejudice.
 
-* [Nova Terra (New Land)](https://soundcloud.com/pedro-correia-712367707/nova-terra-myspace) - Songwritting in my university days, when activism was a very relevant portion of my life.
+* [Nova Terra (New Land)](https://soundcloud.com/pedro-correia-712367707/nova-terra-myspace) - Songwriting in my university days, when social/ethical activism was a daily routine  (released under the pseudonym Duarte Remna). It speaks about unfair treatment given to immigrants.
 
