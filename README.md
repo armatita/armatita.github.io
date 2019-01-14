@@ -62,19 +62,23 @@ a GUI supported environment.
 * [Geostatistics](https://fenix.tecnico.ulisboa.pt/disciplinas/G4517957/2018-2019/1-semestre) - For both Mining and Geology Engineering and Petroleum Engineering at Msc level, [IST](https://tecnico.ulisboa.pt/en/) University (2014/2015).
 * [Stochastic Modeling of Oil Reservoirs](https://fenix.tecnico.ulisboa.pt/disciplinas/MRP3645111326/2017-2018/2-semestre/pagina-inicial) - For Petroleum Engineering at Msc level, [IST](https://tecnico.ulisboa.pt/en/) University (2014/2015).
 
-# Scientific Publications & E-Books
+# Scientific Publications, E-Books, & Video Tutorials
 
 * [Modelação e Estimação – Uma introdução à Geoestatística (2010)](http://www.leg.ufpr.br/lib/exe/fetch.php/disciplinas:geoesalq:pira2012:numist_-_modelacao_e_estimacao_-sgems.pdf) (en: *Modeling and Estimation - An introduction to Geostatistics*) - This was a publication made to support Geostatics students at IST. It was originally released as a free e-book to [numist](http://numist.tecnico.ulisboa.pt/~numist.daemon/) student association which me and a group of colleagues had just founded. However I'm linking some other repository because the original seems to be down.
 * [Introdução à programação Parte I -Octave (2010)](https://www.researchgate.net/publication/268811857_Introducao_a_programacao_Parte_I_-Octave) (en: *Introducation to Programming: Octave*)- A publication made to explain programming concepts and data analysis using programming language [Octave](https://www.gnu.org/software/octave/). It's written in Portuguese.
 * [Introdução à programação Parte II -Python (2011)](https://www.researchgate.net/publication/268811866_Introducao_a_programacao_Parte_II_-Python) (en: *Introduction to Programming: Python (2011)*)- A publication made to explain programming concepts, data analysis, UI development, and scientific visualization using programming language [Python](https://www.python.org/) plus a number of external libraries (numpy, scipy, matplotlib, wxwidgets, etc.).  It's written in Portuguese.
 * [Introdução à programação – Parte 3 - SAGE (2011)](https://www.researchgate.net/publication/268811870_Introducao_a_programacao_-_Parte_3_-_SAGE) (en: *Introduction to Programming: Sage*) - A publication made to explain programming concepts and data analysis using programming language [Sage](http://www.sagemath.org/). It's written in Portuguese.
+* [Introduction to Python](https://www.youtube.com/watch?v=vEvSEcbOsVY) - This a series of video tutorials about the basics of Python Programming. Originially these were part of a ShowMeDo kind of project for which I colaborated with. When that repository went offline another youtube user upload the videos which I'm linking (with my consent).
+* [Introduction to Python and Matplotlib](https://www.youtube.com/watch?v=vEvSEcbOsVY) - This a series of video tutorials about Python Programming, specifically using visualization library matplotlib. Originially these were part of a ShowMeDo kind of project for which I colaborated with. When that repository went offline another youtube user upload the videos which I'm linking (with my consent).
+* [Introduction to Python and wxWidgets](https://www.youtube.com/watch?v=vEvSEcbOsVY) - This a series of video tutorials about Python Programming, specifically using visualization library wxWidgets. Originially these were part of a ShowMeDo kind of project for which I colaborated with. When that repository went offline another youtube user upload the videos which I'm linking (with my consent).
 
 # White Papers
 
+* [Natural Fracture Networks](https://fenix.tecnico.ulisboa.pt/downloadFile/395139480478/NaturalFractureNetworks.pdf) (2009) - This is actually the extended abstract version of my thesis. It was reviewed by juri but it was never published in journal.
 * [An introduction to "collective publishing"](https://www.researchgate.net/publication/262796853_An_introduction_to_collective_publishing) (2014) - Considering the current state of communication technology this article hopes to expose a new concept, henceforth called “collective publishing”, which allows users to create their own journals and magazines without the need for sophisticated and highly proficient teams and software.
 * [Learning Game: The Math Adventures of Oscar](https://www.researchgate.net/publication/277776242_Learning_Game_The_Math_Adventures_of_Oscar) (2015) - The game was developed to train memory and mathematical reasoning of children in the ages of 5 to 9 and was largely adapted from the concept of casual gaming, typically a kind of game with a small amount of required commitment where the game-play is extremely intuitive and it has a “just to pass the time” state of mind. This article documents the development and the chosen method of commercialization for this game.
 
-# Peer-Reviewed Articles, Conference Paper & Posters
+# Peer-Reviewed Articles, Conference Papers & Posters
 
 * H. Binet, P. Correia, N. Nosjean-Gorgeu, D. Renard, F. Geffroy, J.M. Chautru, D. Garner, [Proper Systemic Knowledge of Reservoir Volume Uncertainties in Depth Conversion](http://www.cspg.org/cspg/documents/Conference%20Website/Gussow/Archives/2018/Extended/Poster/D.Garner.pdf), Closing the Gap III - Advances in Applied Geomodeling for Hydrocarbon Reservoirs, October 8-11, Lake Louise, Alberta - Canada (2018)
 
@@ -112,4 +116,14 @@ Part XVII - Modeling of Energy Resources, p.565, DOI: 10.1007/978-3642-324086_12
 * Azevedo L., Nunes R., Correia P., et al; 
 [Seismic Attributes for Constraining Geostatistical Seismic Inversion](http://geostats2012.nr.no/pdfs/1747979.pdf), 
 [Ninth International Geostatistics Congress](http://geostats2012.nr.no/) 01/2012; (2012)
+
+# Music
+
+* [A Procura (The Search)](https://soundcloud.com/pedro-correia-712367707/a-procura) - This was an early sketch of a music for a video game (a kind of point and click crime novel) that was never finished. This is the type of music made to be played in loop (thus the repetition).
+
+* [WALF - Tema Principal (Main Theme)](https://soundcloud.com/pedro-correia-712367707/main-menu-theme) - This was an early sketch of a music for a video game (a kind of point and click crime novel) that was never finished. This particular track was made to be played in the main menu.
+
+* [Sozinho na tua cor (Alone in your color)](https://soundcloud.com/pedro-correia-712367707/sozinho-na-tua-cor-myspace) - Songwritting in my university days, when activism was a very relevant portion of my life.
+
+* [Nova Terra (New Land)](https://soundcloud.com/pedro-correia-712367707/nova-terra-myspace) - Songwritting in my university days, when activism was a very relevant portion of my life.
 
