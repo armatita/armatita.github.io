@@ -170,5 +170,21 @@ Part XVII - Modeling of Energy Resources, p.565, DOI: 10.1007/978-3642-324086_12
 
 ## Researcher (CERENA)
 
+- 2010 - Initiated research for new seismic inversion methodology named "Direct Inversion of Porosity".
+- 2010 - Developed octave version of Fillworks software (cut and fill studies).
+- 2010 - Developed python standalone version of Fillworks software (http://sourceforge.net/projects/fillworks/)
+2011 - Finished research for "Direct Inversion of Porosity" project and developed the algorithm implementation of the same method.
+2011 - Developed ECMWF parser software for environmental studies using re-analysis ECMWF data (http://sourceforge.net/projects/ecmwfparser/)
+2012 - Developed GSI student toolbox software for seismic inversion and oil reservoir characterization (http://sourceforge.net/projects/gsistb/?source=directory)
+2012 - Research on the Global Stochastic Inversion method and development of a new software implementation of the same method for hypothesis testing.
+2013 - Development of JimFusion software for image processing and GIS analysis (does not have public release).
+2013 - Research and development of the methodology and algorithm for Block Indicator Simulation.
+2013 - Characterization of an ore mine in Portugal using Block Indicator Simulation, DOI: 10.1007/978-3-642-32408-6_158
+2013 - Developed algorithm and software for soil contamination assessment - DOI: 10.1007/s11004-013-9466-1
+2013 - Development of dAnalytics software for class support in discriminant analysis teaching (http://sourceforge.net/projects/danalytics/).
+2013 - Has begun development of geoscience modeling software GEOMS2.
+2014 - Has finished development of geosciences modeling software GEOMS2 (http://sourceforge.net/projects/geoms2/)
+2014 - Has been a assistant lecturer in Reservoir Modelling and Geostatistics courses in Instituto Superior Técnico.
+
 <sup>[Back to top](#Index)</sup>
 
