@@ -19,6 +19,9 @@ for Android and frequently releases online publications and software.
 # Index
 
 * [Commercial Software](#Commercial-Software)
+* [Open-Source Software](#Open-Source-Software)
+* [Educational Apps](#Educational-Apps)
+* [Scientific Publications, E-Books, & Video Tutorials](#Scientific Publications,-E-Books,-&-Video-Tutorials)
 
 # Commercial Software
 
