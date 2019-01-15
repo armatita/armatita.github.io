@@ -28,8 +28,8 @@ for Android and frequently releases online publications and software.
 * [Work Experience](#Work-Experience)
   * [Software Engineer](#Software-Engineer-Geovariances)
   * [Co-Founder](#Co-Founder-anteia)
-  * [Assistant Lecturer (IST)](#Assistant-Lecturer-IST)
-  * [Researcher (CERENA)](#Researcher-CERENA)
+  * [University Assistant Lecturer](#Assistant-Lecturer-IST)
+  * [Researcher](#Researcher-CERENA)
 
 # Commercial Software
 
