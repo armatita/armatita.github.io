@@ -23,8 +23,9 @@ for Android and frequently releases online publications and software.
 * [Educational Apps](#Educational-Apps)
 * [Scientific Publications, eBooks, and Video Tutorials](#Scientific-Publications-eBooks-and-Video-Tutorials)
 * [White Papers](#White-Papers)
-* [Peer-Reviewed Articles, Conference Papers and Posters](#Peer-Reviewed-Articles,-Conference-Papers-and-Posters)
+* [Peer-Reviewed Articles, Conference Papers and Posters](#Peer-Reviewed-Articles-Conference-Papers-and-Posters)
 * [Musical composition and Songwriting](#Musical-composition-and-Songwriting)
+* [Work Experience](#Work-Experience)
 
 # Commercial Software
 
@@ -66,11 +67,6 @@ a GUI supported environment.
 * [The Number Adventures of Oscar](https://play.google.com/store/apps/details?id=com.anteia.tnaoo&hl=en)
 * [The Puzzle Adventures of Oscar](https://play.google.com/store/apps/details?id=com.anteia.tpaoo&hl=en)
 * [The Time Adventures of Oscar](https://play.google.com/store/apps/details?id=com.anteia.ttaoo&hl=en)
-
-# Assistant Lecturer
-
-* [Geostatistics](https://fenix.tecnico.ulisboa.pt/disciplinas/G4517957/2018-2019/1-semestre) - For both Mining and Geology Engineering and Petroleum Engineering at Msc level, [IST](https://tecnico.ulisboa.pt/en/) University (2014/2015).
-* [Stochastic Modeling of Oil Reservoirs](https://fenix.tecnico.ulisboa.pt/disciplinas/MRP3645111326/2017-2018/2-semestre/pagina-inicial) - For Petroleum Engineering at Msc level, [IST](https://tecnico.ulisboa.pt/en/) University (2014/2015).
 
 # Scientific Publications, eBooks, and Video Tutorials
 
@@ -136,4 +132,17 @@ Part XVII - Modeling of Energy Resources, p.565, DOI: 10.1007/978-3642-324086_12
 * [Sozinho na tua cor (Alone in your color)](https://soundcloud.com/pedro-correia-712367707/sozinho-na-tua-cor-myspace) - Songwriting in my university days, when social/ethical activism was a daily routine (released under the pseudonym Duarte Remna). It speaks about isolation, loneliness, indinference and prejudice.
 
 * [Nova Terra (New Land)](https://soundcloud.com/pedro-correia-712367707/nova-terra-myspace) - Songwriting in my university days, when social/ethical activism was a daily routine  (released under the pseudonym Duarte Remna). It speaks about unfair treatment given to immigrants.
+
+# Work Experience
+
+## Software Engineer (Geovariances)
+
+## Co-Founder (anteia)
+
+## Assistant Lecturer
+
+* [Geostatistics](https://fenix.tecnico.ulisboa.pt/disciplinas/G4517957/2018-2019/1-semestre) - For both Mining and Geology Engineering and Petroleum Engineering at Msc level, [IST](https://tecnico.ulisboa.pt/en/) University (2014/2015).
+* [Stochastic Modeling of Oil Reservoirs](https://fenix.tecnico.ulisboa.pt/disciplinas/MRP3645111326/2017-2018/2-semestre/pagina-inicial) - For Petroleum Engineering at Msc level, [IST](https://tecnico.ulisboa.pt/en/) University (2014/2015).
+
+## Researcher
 
