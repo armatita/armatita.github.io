@@ -66,6 +66,8 @@ provided a first measure of cost prior to further developments in construction. 
 in data analysis, specifically discriminant analysis, allowing the student to quickly make experiments in 
 a GUI supported environment.
 
+<sup>[Back to top](#Index)</sup>
+
 # Educational Apps
 
 * [The Math Adventures of Oscar](https://play.google.com/store/apps/details?id=com.anteia.tmaoo&hl=en)
@@ -73,6 +75,8 @@ a GUI supported environment.
 * [The Number Adventures of Oscar](https://play.google.com/store/apps/details?id=com.anteia.tnaoo&hl=en)
 * [The Puzzle Adventures of Oscar](https://play.google.com/store/apps/details?id=com.anteia.tpaoo&hl=en)
 * [The Time Adventures of Oscar](https://play.google.com/store/apps/details?id=com.anteia.ttaoo&hl=en)
+
+<sup>[Back to top](#Index)</sup>
 
 # Scientific Publications, eBooks, and Video Tutorials
 
@@ -84,11 +88,15 @@ a GUI supported environment.
 * [Introduction to Python and Matplotlib](https://www.youtube.com/watch?v=vEvSEcbOsVY) - This is a series of video tutorials about Python Programming, specifically using visualization library matplotlib. Originially these were part of a ShowMeDo kind of project for which I colaborated with. When that repository went offline another youtube user upload the videos which I'm linking (with my consent). Spoken in Portuguese.
 * [Introduction to Python and wxWidgets](https://www.youtube.com/watch?v=vEvSEcbOsVY) - This is a series of video tutorials about Python Programming, specifically using user interface library wxWidgets. Originially these were part of a ShowMeDo kind of project for which I colaborated with. When that repository went offline another youtube user upload the videos which I'm linking (with my consent). Spoken in Portuguese.
 
+<sup>[Back to top](#Index)</sup>
+
 # White Papers
 
 * [Learning Game: The Math Adventures of Oscar](https://www.researchgate.net/publication/277776242_Learning_Game_The_Math_Adventures_of_Oscar) (2015) - The game was developed to train memory and mathematical reasoning of children in the ages of 5 to 9 and was largely adapted from the concept of casual gaming, typically a kind of game with a small amount of required commitment where the game-play is extremely intuitive and it has a “just to pass the time” state of mind. This article documents the development and the chosen method of commercialization for this game.
 * [An introduction to "collective publishing"](https://www.researchgate.net/publication/262796853_An_introduction_to_collective_publishing) (2014) - Considering the current state of communication technology this article hopes to expose a new concept, henceforth called “collective publishing”, which allows users to create their own journals and magazines without the need for sophisticated and highly proficient teams and software.
 * [Natural Fracture Networks](https://fenix.tecnico.ulisboa.pt/downloadFile/395139480478/NaturalFractureNetworks.pdf) (2009) - This is actually the extended abstract version of my thesis. It was reviewed by juri but it was never published in journal.
+
+<sup>[Back to top](#Index)</sup>
 
 # Peer-Reviewed Articles, Conference Papers and Posters
 
@@ -129,6 +137,8 @@ Part XVII - Modeling of Energy Resources, p.565, DOI: 10.1007/978-3642-324086_12
 [Seismic Attributes for Constraining Geostatistical Seismic Inversion](http://geostats2012.nr.no/pdfs/1747979.pdf), 
 [Ninth International Geostatistics Congress](http://geostats2012.nr.no/) 01/2012; (2012)
 
+<sup>[Back to top](#Index)</sup>
+
 # Musical composition and Songwriting
 
 * [A Procura (The Search)](https://soundcloud.com/pedro-correia-712367707/a-procura) - This was an early sketch of a music for a video game (a kind of point and click crime novel) that was never finished. This is the type of music made to be played in loop (thus the repetition). It was made to give a sense of investigation, mystery, a searching for answers.
@@ -139,16 +149,26 @@ Part XVII - Modeling of Energy Resources, p.565, DOI: 10.1007/978-3642-324086_12
 
 * [Nova Terra (New Land)](https://soundcloud.com/pedro-correia-712367707/nova-terra-myspace) - Songwriting in my university days, when social/ethical activism was a daily routine  (released under the pseudonym Duarte Remna). It speaks about unfair treatment given to immigrants.
 
+<sup>[Back to top](#Index)</sup>
+
 # Work Experience
 
 ## Software Engineer (Geovariances)
 
+<sup>[Back to top](#Index)</sup>
+
 ## Co-Founder (anteia)
+
+<sup>[Back to top](#Index)</sup>
 
 ## Assistant Lecturer (IST)
 
 * [Geostatistics](https://fenix.tecnico.ulisboa.pt/disciplinas/G4517957/2018-2019/1-semestre) - For both Mining and Geology Engineering and Petroleum Engineering at Msc level, [IST](https://tecnico.ulisboa.pt/en/) University (2014/2015).
 * [Stochastic Modeling of Oil Reservoirs](https://fenix.tecnico.ulisboa.pt/disciplinas/MRP3645111326/2017-2018/2-semestre/pagina-inicial) - For Petroleum Engineering at Msc level, [IST](https://tecnico.ulisboa.pt/en/) University (2014/2015).
 
+<sup>[Back to top](#Index)</sup>
+
 ## Researcher (CERENA)
+
+<sup>[Back to top](#Index)</sup>
 
