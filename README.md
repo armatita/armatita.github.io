@@ -21,7 +21,7 @@ for Android and frequently releases online publications and software.
 * [Commercial Software](#Commercial-Software)
 * [Open-Source Software](#Open-Source-Software)
 * [Educational Apps](#Educational-Apps)
-* [Scientific Publications, eBooks, and Video Tutorials](#Scientific-Publications,-eBooks,-and-Video-Tutorials)
+* [Scientific Publications, eBooks, and Video Tutorials](#Scientific-Publications-eBooks-and-Video-Tutorials)
 * [White Papers](#White-Papers)
 * [Peer-Reviewed Articles, Conference Papers and Posters](#Peer-Reviewed-Articles,-Conference-Papers-and-Posters)
 * [Musical composition and Songwriting](#Musical-composition-and-Songwriting)
