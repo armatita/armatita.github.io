@@ -21,9 +21,9 @@ for Android and frequently releases online publications and software.
 * [Commercial Software](#Commercial-Software)
 * [Open-Source Software](#Open-Source-Software)
 * [Educational Apps](#Educational-Apps)
-* [Scientific Publications, eBooks, & Video Tutorials](#Scientific-Publications,-eBooks,-&-Video-Tutorials)
+* [Scientific Publications, eBooks, and Video Tutorials](#Scientific-Publications,-eBooks,-and-Video-Tutorials)
 * [White Papers](#White-Papers)
-* [Peer-Reviewed Articles, Conference Papers & Posters](#Peer-Reviewed-Articles,-Conference-Papers-&-Posters)
+* [Peer-Reviewed Articles, Conference Papers and Posters](#Peer-Reviewed-Articles,-Conference-Papers-and-Posters)
 * [Musical composition and Songwriting](#Musical-composition-and-Songwriting)
 
 # Commercial Software
@@ -72,7 +72,7 @@ a GUI supported environment.
 * [Geostatistics](https://fenix.tecnico.ulisboa.pt/disciplinas/G4517957/2018-2019/1-semestre) - For both Mining and Geology Engineering and Petroleum Engineering at Msc level, [IST](https://tecnico.ulisboa.pt/en/) University (2014/2015).
 * [Stochastic Modeling of Oil Reservoirs](https://fenix.tecnico.ulisboa.pt/disciplinas/MRP3645111326/2017-2018/2-semestre/pagina-inicial) - For Petroleum Engineering at Msc level, [IST](https://tecnico.ulisboa.pt/en/) University (2014/2015).
 
-# Scientific Publications, eBooks, & Video Tutorials
+# Scientific Publications, eBooks, and Video Tutorials
 
 * [Modelação e Estimação – Uma introdução à Geoestatística (2010)](http://www.leg.ufpr.br/lib/exe/fetch.php/disciplinas:geoesalq:pira2012:numist_-_modelacao_e_estimacao_-sgems.pdf) (en: *Modeling and Estimation - An introduction to Geostatistics*) - This was a publication made to support Geostatics students at IST. It was originally released as a free e-book to [numist](http://numist.tecnico.ulisboa.pt/~numist.daemon/) student association which me and a group of colleagues had just founded. However I'm linking some other repository because the original seems to be down.
 * [Introdução à programação Parte I -Octave (2010)](https://www.researchgate.net/publication/268811857_Introducao_a_programacao_Parte_I_-Octave) (en: *Introducation to Programming: Octave*)- A publication made to explain programming concepts and data analysis using programming language [Octave](https://www.gnu.org/software/octave/). It's written in Portuguese.
@@ -88,7 +88,7 @@ a GUI supported environment.
 * [An introduction to "collective publishing"](https://www.researchgate.net/publication/262796853_An_introduction_to_collective_publishing) (2014) - Considering the current state of communication technology this article hopes to expose a new concept, henceforth called “collective publishing”, which allows users to create their own journals and magazines without the need for sophisticated and highly proficient teams and software.
 * [Natural Fracture Networks](https://fenix.tecnico.ulisboa.pt/downloadFile/395139480478/NaturalFractureNetworks.pdf) (2009) - This is actually the extended abstract version of my thesis. It was reviewed by juri but it was never published in journal.
 
-# Peer-Reviewed Articles, Conference Papers & Posters
+# Peer-Reviewed Articles, Conference Papers and Posters
 
 * H. Binet, P. Correia, N. Nosjean-Gorgeu, D. Renard, F. Geffroy, J.M. Chautru, D. Garner, [Proper Systemic Knowledge of Reservoir Volume Uncertainties in Depth Conversion](http://www.cspg.org/cspg/documents/Conference%20Website/Gussow/Archives/2018/Extended/Poster/D.Garner.pdf), Closing the Gap III - Advances in Applied Geomodeling for Hydrocarbon Reservoirs, October 8-11, Lake Louise, Alberta - Canada (2018)
 
