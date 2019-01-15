@@ -24,7 +24,7 @@ for Android and frequently releases online publications and software.
 * [Scientific Publications, eBooks, & Video Tutorials](#Scientific-Publications,-eBooks,-&-Video-Tutorials)
 * [White Papers](#White-Papers)
 * [Peer-Reviewed Articles, Conference Papers & Posters](#Peer-Reviewed-Articles,-Conference-Papers-&-Posters)
-* [Musical composition & Songwriting](#Musical-composition-&-Songwriting)
+* [Musical composition and Songwriting](#Musical-composition-and-Songwriting)
 
 # Commercial Software
 
@@ -127,7 +127,7 @@ Part XVII - Modeling of Energy Resources, p.565, DOI: 10.1007/978-3642-324086_12
 [Seismic Attributes for Constraining Geostatistical Seismic Inversion](http://geostats2012.nr.no/pdfs/1747979.pdf), 
 [Ninth International Geostatistics Congress](http://geostats2012.nr.no/) 01/2012; (2012)
 
-# Musical composition & Songwriting
+# Musical composition and Songwriting
 
 * [A Procura (The Search)](https://soundcloud.com/pedro-correia-712367707/a-procura) - This was an early sketch of a music for a video game (a kind of point and click crime novel) that was never finished. This is the type of music made to be played in loop (thus the repetition). It was made to give a sense of investigation, mystery, a searching for answers.
 
