@@ -21,8 +21,8 @@ for Android and frequently releases online publications and software.
 * [Commercial Software](#Commercial-Software)
 * [Open-Source Software](#Open-Source-Software)
 * [Educational Apps](#Educational-Apps)
-* [Scientific Publications, E-Books, & Video Tutorials](#Scientific-Publications,-E-Books,-&-Video-Tutorials)
-* [White Papers](#-White-Papers)
+* [Scientific Publications, eBooks, & Video Tutorials](#Scientific-Publications,-eBooks,-&-Video-Tutorials)
+* [White Papers](#White-Papers)
 * [Peer-Reviewed Articles, Conference Papers & Posters](#Peer-Reviewed-Articles,-Conference-Papers-&-Posters)
 * [Musical composition & Songwriting](#Musical-composition-&-Songwriting)
 
@@ -72,7 +72,7 @@ a GUI supported environment.
 * [Geostatistics](https://fenix.tecnico.ulisboa.pt/disciplinas/G4517957/2018-2019/1-semestre) - For both Mining and Geology Engineering and Petroleum Engineering at Msc level, [IST](https://tecnico.ulisboa.pt/en/) University (2014/2015).
 * [Stochastic Modeling of Oil Reservoirs](https://fenix.tecnico.ulisboa.pt/disciplinas/MRP3645111326/2017-2018/2-semestre/pagina-inicial) - For Petroleum Engineering at Msc level, [IST](https://tecnico.ulisboa.pt/en/) University (2014/2015).
 
-# Scientific Publications, E-Books, & Video Tutorials
+# Scientific Publications, eBooks, & Video Tutorials
 
 * [Modelação e Estimação – Uma introdução à Geoestatística (2010)](http://www.leg.ufpr.br/lib/exe/fetch.php/disciplinas:geoesalq:pira2012:numist_-_modelacao_e_estimacao_-sgems.pdf) (en: *Modeling and Estimation - An introduction to Geostatistics*) - This was a publication made to support Geostatics students at IST. It was originally released as a free e-book to [numist](http://numist.tecnico.ulisboa.pt/~numist.daemon/) student association which me and a group of colleagues had just founded. However I'm linking some other repository because the original seems to be down.
 * [Introdução à programação Parte I -Octave (2010)](https://www.researchgate.net/publication/268811857_Introducao_a_programacao_Parte_I_-Octave) (en: *Introducation to Programming: Octave*)- A publication made to explain programming concepts and data analysis using programming language [Octave](https://www.gnu.org/software/octave/). It's written in Portuguese.
