@@ -27,6 +27,9 @@ for Android and frequently releases online publications and software.
 * [Musical composition and Songwriting](#Musical-composition-and-Songwriting)
 * [Work Experience](#Work-Experience)
   * [Software Engineer](#Software-Engineer-Geovariances)
+  * [Co-Founder](#Co-Founder-anteia)
+  * [Assistant Lecturer (IST)](#Assistant-Lecturer-IST)
+  * [Researcher (CERENA)](#Researcher-CERENA)
 
 # Commercial Software
 
@@ -140,10 +143,10 @@ Part XVII - Modeling of Energy Resources, p.565, DOI: 10.1007/978-3642-324086_12
 
 ## Co-Founder (anteia)
 
-## Assistant Lecturer
+## Assistant Lecturer (IST)
 
 * [Geostatistics](https://fenix.tecnico.ulisboa.pt/disciplinas/G4517957/2018-2019/1-semestre) - For both Mining and Geology Engineering and Petroleum Engineering at Msc level, [IST](https://tecnico.ulisboa.pt/en/) University (2014/2015).
 * [Stochastic Modeling of Oil Reservoirs](https://fenix.tecnico.ulisboa.pt/disciplinas/MRP3645111326/2017-2018/2-semestre/pagina-inicial) - For Petroleum Engineering at Msc level, [IST](https://tecnico.ulisboa.pt/en/) University (2014/2015).
 
-## Researcher
+## Researcher (CERENA)
 
