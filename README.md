@@ -26,7 +26,7 @@ for Android and frequently releases online publications and software.
 * [Peer-Reviewed Articles, Conference Papers and Posters](#Peer-Reviewed-Articles-Conference-Papers-and-Posters)
 * [Musical composition and Songwriting](#Musical-composition-and-Songwriting)
 * [Work Experience](#Work-Experience)
-  * [Software Engineer](##Software-Engineer-Geovariances)
+  * [Software Engineer](#Software-Engineer-Geovariances)
 
 # Commercial Software
 
