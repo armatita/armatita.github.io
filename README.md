@@ -18,7 +18,7 @@ for Android and frequently releases online publications and software.
 
 # Index
 
-* [Commercial Software](# Commercial Software)
+* [Commercial Software](#Commercial-Software)
 
 # Commercial Software
 
