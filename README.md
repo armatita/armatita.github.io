@@ -29,7 +29,7 @@ for Android and frequently releases online publications and software.
   * [Software Engineer](#Software-Engineer-Geovariances)
   * [Co-Founder](#Co-Founder-anteia)
   * [University Assistant Lecturer](#Assistant-Lecturer-IST)
-  * [Researcher](#Researcher-CERENA)
+  * [Researcher](#Researcher-Cerena)
 
 # Commercial Software
 
@@ -163,12 +163,16 @@ Part XVII - Modeling of Energy Resources, p.565, DOI: 10.1007/978-3642-324086_12
 
 ## Assistant Lecturer (IST)
 
+My employer was [IST](https://tecnico.ulisboa.pt/en/), an engineering University in Lisbon.
+
 * [Geostatistics](https://fenix.tecnico.ulisboa.pt/disciplinas/G4517957/2018-2019/1-semestre) - For both Mining and Geology Engineering and Petroleum Engineering at Msc level, [IST](https://tecnico.ulisboa.pt/en/) University (2014/2015). <kbd>Education</kbd> <kbd>Geostatistics</kbd>
 * [Stochastic Modeling of Oil Reservoirs](https://fenix.tecnico.ulisboa.pt/disciplinas/MRP3645111326/2017-2018/2-semestre/pagina-inicial) - For Petroleum Engineering at Msc level, [IST](https://tecnico.ulisboa.pt/en/) University (2014/2015). <kbd>Education</kbd> <kbd>Geostatistics</kbd> <kbd>Uncertainty Analysis</kbd> <kbd>Seismic Inversion</kbd> <kbd>Stochastic Simulation</kbd>
 
 <sup>[Back to top](#Index)</sup>
 
-## Researcher (CERENA)
+## Researcher (Cerena)
+
+My employer was research center [Cerena](https://cerena.ist.utl.pt/), part of [IST](https://tecnico.ulisboa.pt/en/) University.
 
 * 2010 - Initiated research for new seismic inversion methodology named "Direct Inversion of Porosity". <kbd>Applied Mathematics</kbd> <kbd>Geophysics</kbd> <kbd>Geostatistics</kbd> 
 * 2010 - Developed octave version of Fillworks software (cut and fill studies). <kbd>Scientific Software</kbd> <kbd>Earthmoving</kbd> <kbd>Cut and Fill</kbd>  
