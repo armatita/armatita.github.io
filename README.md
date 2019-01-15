@@ -133,7 +133,7 @@ Part XVII - Modeling of Energy Resources, p.565, DOI: 10.1007/978-3642-324086_12
 [SEG Technical Program Expanded Abstracts](http://library.seg.org/doi/book/10.1190/segeab.32), 
 01/2013, DOI: 10.1190/segam2013-0555.1 (2013)
 
-* Azevedo L., Nunes R., Correia P., et al; 
+* Azevedo L., Nunes R., Correia P.,  José A. Almeida, Luís M. Pinheiro, Maria H. Caeiro, and Amílcar Soares; 
 [Seismic Attributes for Constraining Geostatistical Seismic Inversion](http://geostats2012.nr.no/pdfs/1747979.pdf), 
 [Ninth International Geostatistics Congress](http://geostats2012.nr.no/) 01/2012; (2012)
 
