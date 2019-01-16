@@ -18,9 +18,10 @@ for Android and frequently releases online publications and software.
 
 # Index
 
-* [Commercial Software](#Commercial-Software)
-* [Open-Source Software](#Open-Source-Software)
-* [Educational Apps](#Educational-Apps)
+* [Software](#Software)
+  * [Commercial Software](#Commercial-Software)
+  * [Open-Source Software](#Open-Source-Software)
+  * [Educational Apps](#Educational-Apps)
 * [Scientific Publications, eBooks, and Video Tutorials](#Scientific-Publications-eBooks-and-Video-Tutorials)
 * [White Papers](#White-Papers)
 * [Peer-Reviewed Articles, Conference Papers and Posters](#Peer-Reviewed-Articles-Conference-Papers-and-Posters)
@@ -31,7 +32,9 @@ for Android and frequently releases online publications and software.
   * [University Assistant Lecturer](#Assistant-Lecturer-IST)
   * [Researcher](#Researcher-Cerena)
 
-# Commercial Software
+# Software
+
+## Commercial Software
 
 * [Isatis.neo](https://www.geovariances.com/en/software-geovariances/) - It developed tools for this and other software solutions in Geovariances. Isatis.neo and other Geovariances products use geostatistics to perform spatial estimation in several sectors related to spatial imaging, namely Oil & Gas, Mining, Environment, Hydrogeology, Contamination, etc.
 
@@ -39,7 +42,7 @@ for Android and frequently releases online publications and software.
 
 <sup>[Back to top](#Index)</sup>
 
-# Open-Source Software
+## Open-Source Software
 
 * [GEOMS2](https://sourceforge.net/projects/geoms2/) - A Geostatistics and Geosciences modeling software. Mostly written 
 in [Python](https://www.python.org/) (some algorithms in C/C++), its fully equipped with a 3D viewer ([Mayavi](http://docs.enthought.com/mayavi/mayavi/)), 
@@ -68,7 +71,7 @@ a GUI supported environment.
 
 <sup>[Back to top](#Index)</sup>
 
-# Educational Apps
+## Educational Apps
 
 * [The Math Adventures of Oscar](https://play.google.com/store/apps/details?id=com.anteia.tmaoo&hl=en)
 * [The Algebra Adventures of Oscar](https://play.google.com/store/apps/details?id=com.anteia.taaoo&hl=en)
