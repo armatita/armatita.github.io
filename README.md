@@ -36,7 +36,7 @@ for Android and frequently releases online publications and software.
   * [Icons](#Icons)
   * [Marketing](#Marketing)
   * [Scientific Illustration](#Scientific-Illustration)
-  * [Game Art](#Game-Art)
+  * [Game Art and Animation](#Game-Art-and-Animation)
 * [User Experience](#User-Experience)
   * [Widgets](#Widgets)
 * [Musical composition and Songwriting](#Musical-composition-and-Songwriting)
@@ -221,7 +221,7 @@ Part XVII - Modeling of Energy Resources, p.565, DOI: 10.1007/978-3642-324086_12
 
 <sup>[Back to top](#Index)</sup>
 
-## Game Art
+## Game Art and Animation
 
 <sup>[Back to top](#Index)</sup>
 
