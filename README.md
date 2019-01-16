@@ -31,10 +31,20 @@ for Android and frequently releases online publications and software.
   * [Scientific Publications, eBooks, and Video Tutorials](#Scientific-Publications-eBooks-and-Video-Tutorials)
   * [White Papers](#White-Papers)
   * [Peer-Reviewed Articles, Conference Papers and Posters](#Peer-Reviewed-Articles-Conference-Papers-and-Posters)
+* [Graphic Design](#Graphic-Design)
+  * [Branding and Logos](#Branding-and-logos)
+  * [Icons](#Icons)
+  * [Marketing](#Marketing)
+  * [Scientific Illustration](#Scientific-Illustration)
+  * [Game Art](#Game-Art)
+* [User Experience](#User-Experience)
+  * [Widgets](#Widgets)
 * [Musical composition and Songwriting](#Musical-composition-and-Songwriting)
 
 
 # Software
+
+I've produced desktop software in several scientific fields, both commercial and open-source. Further I've developed several educational apps for Android (free models in mobile equipments). 
 
 ## Commercial Software
 
@@ -75,15 +85,17 @@ a GUI supported environment.
 
 ## Educational Apps
 
-* [The Math Adventures of Oscar](https://play.google.com/store/apps/details?id=com.anteia.tmaoo&hl=en)
-* [The Algebra Adventures of Oscar](https://play.google.com/store/apps/details?id=com.anteia.taaoo&hl=en)
-* [The Number Adventures of Oscar](https://play.google.com/store/apps/details?id=com.anteia.tnaoo&hl=en)
-* [The Puzzle Adventures of Oscar](https://play.google.com/store/apps/details?id=com.anteia.tpaoo&hl=en)
-* [The Time Adventures of Oscar](https://play.google.com/store/apps/details?id=com.anteia.ttaoo&hl=en)
+* [The Math Adventures of Oscar](https://play.google.com/store/apps/details?id=com.anteia.tmaoo&hl=en) - basic math casual game with several modes with the purpose of providing exercises in different operations.
+* [The Algebra Adventures of Oscar](https://play.google.com/store/apps/details?id=com.anteia.taaoo&hl=en) - a game with exercises a bit more complex than the previous showing directly mathematical formula for progression in algebra skills.
+* [The Number Adventures of Oscar](https://play.google.com/store/apps/details?id=com.anteia.tnaoo&hl=en) - a visual approach to mathematical operations like multiplication and division.
+* [The Puzzle Adventures of Oscar](https://play.google.com/store/apps/details?id=com.anteia.tpaoo&hl=en) - a casual puzzle game played by dragging pieces to the correct position.
+* [The Time Adventures of Oscar](https://play.google.com/store/apps/details?id=com.anteia.ttaoo&hl=en) - a game with exercises on learning how to check the time.
 
 <sup>[Back to top](#Index)</sup>
 
 # Work Experience
+
+I've worked in a reserach center (in geosciences), as university assistant lecturer and as a software engineer in a company which develops software for scientific purposes. I've also, at some point, started my own endeavour (with a friend) in building a company to produce digital products for education.
 
 ## Software Engineer (Geovariances)
 
@@ -127,6 +139,8 @@ My employer was research center [Cerena](https://cerena.ist.utl.pt/), part of [I
 
 
 # Technical Literature
+
+I've made publications to support education at university level, as well as several articles written for international journals and conferences.
 
 ## Scientific Publications, eBooks, and Video Tutorials
 
@@ -186,6 +200,34 @@ Part XVII - Modeling of Energy Resources, p.565, DOI: 10.1007/978-3642-324086_12
 * Azevedo L., Nunes R., Correia P.,  José A. Almeida, Luís M. Pinheiro, Maria H. Caeiro, and Amílcar Soares; 
 [Seismic Attributes for Constraining Geostatistical Seismic Inversion](http://geostats2012.nr.no/pdfs/1747979.pdf), 
 [Ninth International Geostatistics Congress](http://geostats2012.nr.no/) 01/2012; (2012)
+
+<sup>[Back to top](#Index)</sup>
+
+# Graphic Design
+
+## Branding and Logos
+
+<sup>[Back to top](#Index)</sup>
+
+## Icons
+
+<sup>[Back to top](#Index)</sup>
+
+## Marketing
+
+<sup>[Back to top](#Index)</sup>
+
+## Scientific Illustration
+
+<sup>[Back to top](#Index)</sup>
+
+## Game Art
+
+<sup>[Back to top](#Index)</sup>
+
+# User Experience
+
+## Widgets
 
 <sup>[Back to top](#Index)</sup>
 
