@@ -33,22 +33,22 @@ for Android and frequently releases online publications and software.
 
 # Commercial Software
 
-[Isatis.neo](https://www.geovariances.com/en/software-geovariances/) - It developed tools for this and other software solutions in Geovariances. Isatis.neo and other Geovariances products use geostatistics to perform spatial estimation in several sectors related to spatial imaging, namely Oil & Gas, Mining, Environment, Hydrogeology, Contamination, etc.
+* [Isatis.neo](https://www.geovariances.com/en/software-geovariances/) - It developed tools for this and other software solutions in Geovariances. Isatis.neo and other Geovariances products use geostatistics to perform spatial estimation in several sectors related to spatial imaging, namely Oil & Gas, Mining, Environment, Hydrogeology, Contamination, etc.
 
-[UncerTZ/Isatis.neo Petroleum](https://www.geovariances.com/en/news/uncertz-consortium-time-depth-conversion-evolved/) - As part of a research and development consortium a time to depth conversion software was developed, later added as the Oil & Gas oriented edition of Isatis.neo. This software uses geostatistics, among other techniques, to perform a series of operations regarding the fields of Geophysics and Reservoir Engineering. 
+* [UncerTZ/Isatis.neo Petroleum](https://www.geovariances.com/en/news/uncertz-consortium-time-depth-conversion-evolved/) - As part of a research and development consortium a time to depth conversion software was developed, later added as the Oil & Gas oriented edition of Isatis.neo. This software uses geostatistics, among other techniques, to perform a series of operations regarding the fields of Geophysics and Reservoir Engineering. 
 
 <sup>[Back to top](#Index)</sup>
 
 # Open-Source Software
 
-[GEOMS2](https://sourceforge.net/projects/geoms2/) - A Geostatistics and Geosciences modeling software. Mostly written 
+* [GEOMS2](https://sourceforge.net/projects/geoms2/) - A Geostatistics and Geosciences modeling software. Mostly written 
 in [Python](https://www.python.org/) (some algorithms in C/C++), its fully equipped with a 3D viewer ([Mayavi](http://docs.enthought.com/mayavi/mayavi/)), 
 2D plots ([matplotlib](https://matplotlib.org/)) and several numerical features for estimation, simulation, data analysis,
 and modeling. It was developed to replace software like the historical [Geoms](https://sourceforge.net/projects/geoms/) and
 [GSI Student Toolbox](https://sourceforge.net/projects/gsistb/) (only the latter developed by me). This project was made 
 within [Cerena](http://cerena.ist.utl.pt/) research center as support to research and education. 
 
-[ECMWF parser](https://sourceforge.net/projects/ecmwfparser/) - This software was developed to support the research and 
+* [ECMWF parser](https://sourceforge.net/projects/ecmwfparser/) - This software was developed to support the research and 
 development conducted by [Cerena](http://cerena.ist.utl.pt/) research center in the [ESA](http://www.esa.int/ESA) project 
 [Desertwatch](http://due.esrin.esa.int/page_project65.php). This project aimed to develop of an EO-based Information 
 System to support national and regional authorities in reporting to the UNCCD and monitoring 
@@ -56,13 +56,13 @@ desertification trends over time. The software itself computed, visualized, and 
 important risk factors maps from the [ECMWF](https://www.ecmwf.int/) reanalysis data. Other smaller toolbox were built 
 within the same project such as [ANA parser](https://sites.google.com/site/cmrpsoftware/anaparser).
 
-[Fillworks](https://sourceforge.net/projects/fillworks/) - Fillworks was developed to support a consultancy project 
+* [Fillworks](https://sourceforge.net/projects/fillworks/) - Fillworks was developed to support a consultancy project 
 regarding the construction of a railway line in New Guinea. It provides visualization, drawing and calculation of 
 fill and cut areas (to extrapolated volumes) given topography. This quantification of different railway scenarios 
 provided a first measure of cost prior to further developments in construction. Latter it was used for 
  educational purposes.
  
-[dAnalytics](https://sourceforge.net/projects/danalytics/) - Small tool built specifically for educational purposes 
+* [dAnalytics](https://sourceforge.net/projects/danalytics/) - Small tool built specifically for educational purposes 
 in data analysis, specifically discriminant analysis, allowing the student to quickly make experiments in 
 a GUI supported environment.
 
