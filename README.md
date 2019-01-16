@@ -22,15 +22,17 @@ for Android and frequently releases online publications and software.
   * [Commercial Software](#Commercial-Software)
   * [Open-Source Software](#Open-Source-Software)
   * [Educational Apps](#Educational-Apps)
-* [Scientific Publications, eBooks, and Video Tutorials](#Scientific-Publications-eBooks-and-Video-Tutorials)
-* [White Papers](#White-Papers)
-* [Peer-Reviewed Articles, Conference Papers and Posters](#Peer-Reviewed-Articles-Conference-Papers-and-Posters)
-* [Musical composition and Songwriting](#Musical-composition-and-Songwriting)
 * [Work Experience](#Work-Experience)
   * [Software Engineer](#Software-Engineer-Geovariances)
   * [Co-Founder](#Co-Founder-anteia)
   * [University Assistant Lecturer](#Assistant-Lecturer-IST)
   * [Researcher](#Researcher-Cerena)
+* [Technical Literature](#Technical-Literature)
+  * [Scientific Publications, eBooks, and Video Tutorials](#Scientific-Publications-eBooks-and-Video-Tutorials)
+  * [White Papers](#White-Papers)
+  * [Peer-Reviewed Articles, Conference Papers and Posters](#Peer-Reviewed-Articles-Conference-Papers-and-Posters)
+* [Musical composition and Songwriting](#Musical-composition-and-Songwriting)
+
 
 # Software
 
@@ -81,7 +83,52 @@ a GUI supported environment.
 
 <sup>[Back to top](#Index)</sup>
 
-# Scientific Publications, eBooks, and Video Tutorials
+# Work Experience
+
+## Software Engineer (Geovariances)
+
+<sup>[Back to top](#Index)</sup>
+
+## Co-Founder (anteia)
+
+<sup>[Back to top](#Index)</sup>
+
+## Assistant Lecturer (IST)
+
+My employer was [IST](https://tecnico.ulisboa.pt/en/), an engineering University in Lisbon. This happened in the years of 2014 and 2015.
+
+* [Geostatistics](https://fenix.tecnico.ulisboa.pt/disciplinas/G4517957/2018-2019/1-semestre) - For both Mining and Geology Engineering and Petroleum Engineering at Msc level, [IST](https://tecnico.ulisboa.pt/en/) University (2014/2015). <kbd>Education</kbd> <kbd>Geostatistics</kbd>
+* [Stochastic Modeling of Oil Reservoirs](https://fenix.tecnico.ulisboa.pt/disciplinas/MRP3645111326/2017-2018/2-semestre/pagina-inicial) - For Petroleum Engineering at Msc level, [IST](https://tecnico.ulisboa.pt/en/) University (2014/2015). <kbd>Education</kbd> <kbd>Geostatistics</kbd> <kbd>Uncertainty Analysis</kbd> <kbd>Seismic Inversion</kbd> <kbd>Stochastic Simulation</kbd>
+
+<sup>[Back to top](#Index)</sup>
+
+## Researcher (Cerena)
+
+My employer was research center [Cerena](https://cerena.ist.utl.pt/), part of [IST](https://tecnico.ulisboa.pt/en/) University.
+
+* 2010 - Initiated research for new seismic inversion methodology named "Direct Inversion of Porosity". <kbd>Applied Mathematics</kbd> <kbd>Geophysics</kbd> <kbd>Geostatistics</kbd> 
+* 2010 - Developed octave version of Fillworks software (cut and fill studies). <kbd>Scientific Software</kbd> <kbd>Earthmoving</kbd> <kbd>Cut and Fill</kbd>  
+* 2010 - Developed python standalone version of [Fillworks software](http://sourceforge.net/projects/fillworks/). <kbd>Python</kbd>  <kbd>Scientific Software</kbd> <kbd>Earthmoving</kbd> <kbd>Cut and Fill</kbd>
+* 2011 - Finished research for "Direct Inversion of Porosity" project and developed the algorithm implementation of the same method. <kbd>Python</kbd> <kbd>C</kbd> <kbd>Genetic Programming</kbd>
+* 2011 - Developed [ECMWF parser](http://sourceforge.net/projects/ecmwfparser/) software for environmental studies using re-analysis ECMWF data. <kbd>Python</kbd> <kbd>GRIB</kbd> <kbd>Geostatistics</kbd> <kbd>Environment</kbd> <kbd>Desertification</kbd> <kbd>Atmospheric sciences</kbd>
+* 2012 - Developed [GSI student toolbox](http://sourceforge.net/projects/gsistb/?source=directory) software for seismic inversion and oil reservoir characterization. <kbd>Python</kbd> <kbd>C</kbd> <kbd>Education</kbd> <kbd>Scientific Software</kbd> <kbd>Geophysics</kbd>
+* 2012 - Research on the Global Stochastic Inversion method and development of a new software implementation of the same method for hypothesis testing. <kbd>Python</kbd> <kbd>Geostatistics</kbd> <kbd>Geophysics</kbd>
+* 2013 - Development of JimFusion software for image processing and GIS analysis (does not have public release). <kbd>GIS</kbd> <kbd>3D visualization</kbd> <kbd>Imaging</kbd>
+* 2013 - Research and development of the methodology and algorithm for Block Indicator Simulation. <kbd>Python</kbd> <kbd>Applied Mathematics</kbd> <kbd>Uncertainty Analysis</kbd> <kbd>Geostatistics</kbd>
+* 2013 - Characterization of an ore mine in Portugal using Block Indicator Simulation (see: [Uncertainty Assessment of the Orebodies Geometry Using Block Indicator Simulation](https://link.springer.com/chapter/10.1007/978-3-642-32408-6_158)). <kbd>Mining</kbd> <kbd>Geology</kbd> 
+* 2013 - Developed algorithm and software for soil contamination assessment (see: [Geostatistical Data Integration Model for Contamination Assessment](https://link.springer.com/article/10.1007/s11004-013-9466-1)). <kbd>Python</kbd> <kbd>Environment</kbd> <kbd>Soil Contamination</kbd> <kbd>Genetic Programming</kbd>
+* 2013 - Development of [dAnalytics](http://sourceforge.net/projects/danalytics/) software for class support in discriminant analysis teaching. <kbd>Applied Mathematics</kbd> <kbd>Education</kbd>
+* 2013 - Has begun development of geoscience modeling software [GEOMS2](http://sourceforge.net/projects/geoms2/). <kbd>Python</kbd> <kbd>C</kbd> <kbd>2D visualization</kbd> <kbd>3D visualization</kbd> <kbd>UX</kbd> <kbd>Software Design</kbd>
+* 2014 - Has finished development of geosciences modeling software [GEOMS2](http://sourceforge.net/projects/geoms2/).
+* 2014 - Has done research in elastic seismic inversion (see: [Multidimensional scaling for the evaluation of a geostatistical seismic elastic inversion methodology](http://library.seg.org/doi/abs/10.1190/geo2013-0037.1)). <kbd>Geostatistics</kbd> <kbd>Geophysics</kbd>
+* 2015 - Has done research and development in gradient pore pressure modeling, specifically data analysis and visualization (see: [Gradient Pore Pressure Modelling with Uncertain Well Data](http://www.earthdoc.org/publication/publicationdetails/?publication=82232)). <kbd>Oil & Gas</kbd> <kbd>Geostatistics</kbd> <kbd>Data Analysis</kbd>
+
+<sup>[Back to top](#Index)</sup>
+
+
+# Technical Literature
+
+## Scientific Publications, eBooks, and Video Tutorials
 
 * [Modelação e Estimação – Uma introdução à Geoestatística (2010)](http://www.leg.ufpr.br/lib/exe/fetch.php/disciplinas:geoesalq:pira2012:numist_-_modelacao_e_estimacao_-sgems.pdf) (en: *Modeling and Estimation - An introduction to Geostatistics*) - This was a publication made to support Geostatics students at IST. It was originally released as a free e-book to [numist](http://numist.tecnico.ulisboa.pt/~numist.daemon/) student association which me and a group of colleagues had just founded. However I'm linking some other repository because the original seems to be down.
 * [Introdução à programação Parte I -Octave (2010)](https://www.researchgate.net/publication/268811857_Introducao_a_programacao_Parte_I_-Octave) (en: *Introducation to Programming: Octave*)- A publication made to explain programming concepts and data analysis using programming language [Octave](https://www.gnu.org/software/octave/). It's written in Portuguese.
@@ -93,7 +140,7 @@ a GUI supported environment.
 
 <sup>[Back to top](#Index)</sup>
 
-# White Papers
+## White Papers
 
 * [Learning Game: The Math Adventures of Oscar](https://www.researchgate.net/publication/277776242_Learning_Game_The_Math_Adventures_of_Oscar) (2015) - The game was developed to train memory and mathematical reasoning of children in the ages of 5 to 9 and was largely adapted from the concept of casual gaming, typically a kind of game with a small amount of required commitment where the game-play is extremely intuitive and it has a “just to pass the time” state of mind. This article documents the development and the chosen method of commercialization for this game.
 * [An introduction to "collective publishing"](https://www.researchgate.net/publication/262796853_An_introduction_to_collective_publishing) (2014) - Considering the current state of communication technology this article hopes to expose a new concept, henceforth called “collective publishing”, which allows users to create their own journals and magazines without the need for sophisticated and highly proficient teams and software.
@@ -101,7 +148,7 @@ a GUI supported environment.
 
 <sup>[Back to top](#Index)</sup>
 
-# Peer-Reviewed Articles, Conference Papers and Posters
+## Peer-Reviewed Articles, Conference Papers and Posters
 
 * H. Binet, P. Correia, N. Nosjean-Gorgeu, D. Renard, F. Geffroy, J.M. Chautru, D. Garner, [Proper Systemic Knowledge of Reservoir Volume Uncertainties in Depth Conversion](http://www.cspg.org/cspg/documents/Conference%20Website/Gussow/Archives/2018/Extended/Poster/D.Garner.pdf), Closing the Gap III - Advances in Applied Geomodeling for Hydrocarbon Reservoirs, October 8-11, Lake Louise, Alberta - Canada (2018)
 
@@ -151,49 +198,6 @@ Part XVII - Modeling of Energy Resources, p.565, DOI: 10.1007/978-3642-324086_12
 * [Sozinho na tua cor (Alone in your color)](https://soundcloud.com/pedro-correia-712367707/sozinho-na-tua-cor-myspace) - Songwriting in my university days, when social/ethical activism was a daily routine (released under the pseudonym Duarte Remna). It speaks about isolation, loneliness, indinference and prejudice.
 
 * [Nova Terra (New Land)](https://soundcloud.com/pedro-correia-712367707/nova-terra-myspace) - Songwriting in my university days, when social/ethical activism was a daily routine  (released under the pseudonym Duarte Remna). It speaks about unfair treatment given to immigrants.
-
-<sup>[Back to top](#Index)</sup>
-
-# Work Experience
-
-## Software Engineer (Geovariances)
-
-<sup>[Back to top](#Index)</sup>
-
-## Co-Founder (anteia)
-
-<sup>[Back to top](#Index)</sup>
-
-## Assistant Lecturer (IST)
-
-My employer was [IST](https://tecnico.ulisboa.pt/en/), an engineering University in Lisbon. This happened in the years of 2014 and 2015.
-
-* [Geostatistics](https://fenix.tecnico.ulisboa.pt/disciplinas/G4517957/2018-2019/1-semestre) - For both Mining and Geology Engineering and Petroleum Engineering at Msc level, [IST](https://tecnico.ulisboa.pt/en/) University (2014/2015). <kbd>Education</kbd> <kbd>Geostatistics</kbd>
-* [Stochastic Modeling of Oil Reservoirs](https://fenix.tecnico.ulisboa.pt/disciplinas/MRP3645111326/2017-2018/2-semestre/pagina-inicial) - For Petroleum Engineering at Msc level, [IST](https://tecnico.ulisboa.pt/en/) University (2014/2015). <kbd>Education</kbd> <kbd>Geostatistics</kbd> <kbd>Uncertainty Analysis</kbd> <kbd>Seismic Inversion</kbd> <kbd>Stochastic Simulation</kbd>
-
-<sup>[Back to top](#Index)</sup>
-
-## Researcher (Cerena)
-
-My employer was research center [Cerena](https://cerena.ist.utl.pt/), part of [IST](https://tecnico.ulisboa.pt/en/) University.
-
-* 2010 - Initiated research for new seismic inversion methodology named "Direct Inversion of Porosity". <kbd>Applied Mathematics</kbd> <kbd>Geophysics</kbd> <kbd>Geostatistics</kbd> 
-* 2010 - Developed octave version of Fillworks software (cut and fill studies). <kbd>Scientific Software</kbd> <kbd>Earthmoving</kbd> <kbd>Cut and Fill</kbd>  
-* 2010 - Developed python standalone version of [Fillworks software](http://sourceforge.net/projects/fillworks/). <kbd>Python</kbd>  <kbd>Scientific Software</kbd> <kbd>Earthmoving</kbd> <kbd>Cut and Fill</kbd>
-* 2011 - Finished research for "Direct Inversion of Porosity" project and developed the algorithm implementation of the same method. <kbd>Python</kbd> <kbd>C</kbd> <kbd>Genetic Programming</kbd>
-* 2011 - Developed [ECMWF parser](http://sourceforge.net/projects/ecmwfparser/) software for environmental studies using re-analysis ECMWF data. <kbd>Python</kbd> <kbd>GRIB</kbd> <kbd>Geostatistics</kbd> <kbd>Environment</kbd> <kbd>Desertification</kbd> <kbd>Atmospheric sciences</kbd>
-* 2012 - Developed [GSI student toolbox](http://sourceforge.net/projects/gsistb/?source=directory) software for seismic inversion and oil reservoir characterization. <kbd>Python</kbd> <kbd>C</kbd> <kbd>Education</kbd> <kbd>Scientific Software</kbd> <kbd>Geophysics</kbd>
-* 2012 - Research on the Global Stochastic Inversion method and development of a new software implementation of the same method for hypothesis testing. <kbd>Python</kbd> <kbd>Geostatistics</kbd> <kbd>Geophysics</kbd>
-* 2013 - Development of JimFusion software for image processing and GIS analysis (does not have public release). <kbd>GIS</kbd> <kbd>3D visualization</kbd> <kbd>Imaging</kbd>
-* 2013 - Research and development of the methodology and algorithm for Block Indicator Simulation. <kbd>Python</kbd> <kbd>Applied Mathematics</kbd> <kbd>Uncertainty Analysis</kbd> <kbd>Geostatistics</kbd>
-* 2013 - Characterization of an ore mine in Portugal using Block Indicator Simulation (see: [Uncertainty Assessment of the Orebodies Geometry Using Block Indicator Simulation](https://link.springer.com/chapter/10.1007/978-3-642-32408-6_158)). <kbd>Mining</kbd> <kbd>Geology</kbd> 
-* 2013 - Developed algorithm and software for soil contamination assessment (see: [Geostatistical Data Integration Model for Contamination Assessment](https://link.springer.com/article/10.1007/s11004-013-9466-1)). <kbd>Python</kbd> <kbd>Environment</kbd> <kbd>Soil Contamination</kbd> <kbd>Genetic Programming</kbd>
-* 2013 - Development of [dAnalytics](http://sourceforge.net/projects/danalytics/) software for class support in discriminant analysis teaching. <kbd>Applied Mathematics</kbd> <kbd>Education</kbd>
-* 2013 - Has begun development of geoscience modeling software [GEOMS2](http://sourceforge.net/projects/geoms2/). <kbd>Python</kbd> <kbd>C</kbd> <kbd>2D visualization</kbd> <kbd>3D visualization</kbd> <kbd>UX</kbd> <kbd>Software Design</kbd>
-* 2014 - Has finished development of geosciences modeling software [GEOMS2](http://sourceforge.net/projects/geoms2/).
-* 2014 - Has done research in elastic seismic inversion (see: [Multidimensional scaling for the evaluation of a geostatistical seismic elastic inversion methodology](http://library.seg.org/doi/abs/10.1190/geo2013-0037.1)). <kbd>Geostatistics</kbd> <kbd>Geophysics</kbd>
-* 2015 - Has done research and development in gradient pore pressure modeling, specifically data analysis and visualization (see: [Gradient Pore Pressure Modelling with Uncertain Well Data](http://www.earthdoc.org/publication/publicationdetails/?publication=82232)). <kbd>Oil & Gas</kbd> <kbd>Geostatistics</kbd> <kbd>Data Analysis</kbd>
-
 
 <sup>[Back to top](#Index)</sup>
 
