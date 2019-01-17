@@ -52,7 +52,7 @@ I've produced desktop software in several scientific fields, both commercial and
 
 * [UncerTZ/Isatis.neo Petroleum](https://www.geovariances.com/en/news/uncertz-consortium-time-depth-conversion-evolved/) - As part of a research and development consortium a time to depth conversion software was developed, later added as the Oil & Gas oriented edition of Isatis.neo. This software uses geostatistics, among other techniques, to perform a series of operations regarding the fields of Geophysics and Reservoir Engineering. 
 
-<sup>[Back to top](#Index)</sup>
+<sup>[Back to top](Index)</sup>
 
 ## Open-Source Software
 
