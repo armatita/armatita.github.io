@@ -16,7 +16,7 @@ In 2014 became Assistant Lecturer for two MSc level courses at [IST](https://tec
 as Software Engineer. Independently it has developed several free [Educational Apps](https://play.google.com/store/apps/dev?id=6135518111922353974&hl=en) 
 for Android and frequently releases online publications and software.
 
-# Index
+# Index <a id="Index"></a>
 
 * [Software](#Software)
   * [Commercial Software](#Commercial-Software)
@@ -42,11 +42,11 @@ for Android and frequently releases online publications and software.
 * [Musical composition and Songwriting](#Musical-composition-and-Songwriting)
 
 
-# Software
+# Software <a id="Software"></a>
 
 I've produced desktop software in several scientific fields, both commercial and open-source. Further I've developed several educational apps for Android (free models in mobile equipments). 
 
-## Commercial Software
+## Commercial Software <a id="Commercial-Software"></a>
 
 * [Isatis.neo](https://www.geovariances.com/en/software-geovariances/) - It developed tools for this and other software solutions in Geovariances. Isatis.neo and other Geovariances products use geostatistics to perform spatial estimation in several sectors related to spatial imaging, namely Oil & Gas, Mining, Environment, Hydrogeology, Contamination, etc.
 
