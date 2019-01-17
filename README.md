@@ -19,7 +19,7 @@ for Android and frequently releases online publications and software.
 <a id="Index"></a>
 # Index 
 
-* [Software](Software)
+* [Software](#Software)
   * [Commercial Software](#Commercial-Software)
   * [Open-Source Software](#Open-Source-Software)
   * [Educational Apps](#Educational-Apps)
