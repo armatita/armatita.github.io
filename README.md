@@ -33,7 +33,7 @@ for Android and frequently releases online publications and software.
   * [White Papers](#White-Papers)
   * [Peer-Reviewed Articles, Conference Papers and Posters](#Peer-Reviewed-Articles-Conference-Papers-and-Posters)
 * [Graphic Design](#Graphic-Design)
-  * [Branding and Logos](#Branding-and-logos)
+  * [Branding and Logos](#Branding-and-Logos)
   * [Icons](#Icons)
   * [Marketing](#Marketing)
   * [Scientific Illustration](#Scientific-Illustration)
