@@ -16,7 +16,8 @@ In 2014 became Assistant Lecturer for two MSc level courses at [IST](https://tec
 as Software Engineer. Independently it has developed several free [Educational Apps](https://play.google.com/store/apps/dev?id=6135518111922353974&hl=en) 
 for Android and frequently releases online publications and software.
 
-# Index <a id="Index"></a>
+<a id="Index"></a>
+# Index 
 
 * [Software](Software)
   * [Commercial Software](#Commercial-Software)
@@ -41,12 +42,13 @@ for Android and frequently releases online publications and software.
   * [Widgets](#Widgets)
 * [Musical composition and Songwriting](#Musical-composition-and-Songwriting)
 
-
-# Software <a id="Software"></a>
+<a id="Software"></a>
+# Software 
 
 I've produced desktop software in several scientific fields, both commercial and open-source. Further I've developed several educational apps for Android (free models in mobile equipments). 
 
-## Commercial Software <a id="Commercial-Software"></a>
+<a id="Commercial-Software"></a>
+## Commercial Software 
 
 * [Isatis.neo](https://www.geovariances.com/en/software-geovariances/) - It developed tools for this and other software solutions in Geovariances. Isatis.neo and other Geovariances products use geostatistics to perform spatial estimation in several sectors related to spatial imaging, namely Oil & Gas, Mining, Environment, Hydrogeology, Contamination, etc.
 
@@ -54,6 +56,7 @@ I've produced desktop software in several scientific fields, both commercial and
 
 <sup>[Back to top](#Index)</sup>
 
+<a id="Open-Source-Software"></a>
 ## Open-Source Software
 
 * [GEOMS2](https://sourceforge.net/projects/geoms2/) - A Geostatistics and Geosciences modeling software. Mostly written 
@@ -83,6 +86,7 @@ a GUI supported environment.
 
 <sup>[Back to top](#Index)</sup>
 
+<a id="Educational-Apps"></a>
 ## Educational Apps
 
 * [The Math Adventures of Oscar](https://play.google.com/store/apps/details?id=com.anteia.tmaoo&hl=en) - basic math casual game with several modes with the purpose of providing exercises in different operations.
@@ -93,10 +97,12 @@ a GUI supported environment.
 
 <sup>[Back to top](#Index)</sup>
 
+<a id="Work-Experience"></a>
 # Work Experience
 
 I've worked in a reserach center (in geosciences), as university assistant lecturer and as a software engineer in a company which develops software for scientific purposes. I've also, at some point, started my own endeavour (with a friend) in building a company to produce digital products for education.
 
+<a id="Software-Engineer-Geovariances"></a>
 ## Software Engineer (Geovariances)
 
 <sup>[Back to top](#Index)</sup>
