@@ -107,10 +107,12 @@ I've worked in a reserach center (in geosciences), as university assistant lectu
 
 <sup>[Back to top](#Index)</sup>
 
+<a id="Co-Founder-anteia"></a>
 ## Co-Founder (anteia)
 
 <sup>[Back to top](#Index)</sup>
 
+<a id="Assistant-Lecturer-IST"></a>
 ## Assistant Lecturer (IST)
 
 My employer was [IST](https://tecnico.ulisboa.pt/en/), an engineering University in Lisbon. This happened in the years of 2014 and 2015.
@@ -120,6 +122,7 @@ My employer was [IST](https://tecnico.ulisboa.pt/en/), an engineering University
 
 <sup>[Back to top](#Index)</sup>
 
+<a id="Researcher-Cerena"></a>
 ## Researcher (Cerena)
 
 My employer was research center [Cerena](https://cerena.ist.utl.pt/), part of [IST](https://tecnico.ulisboa.pt/en/) University.
@@ -143,11 +146,12 @@ My employer was research center [Cerena](https://cerena.ist.utl.pt/), part of [I
 
 <sup>[Back to top](#Index)</sup>
 
-
+<a id="Technical-Literature"></a>
 # Technical Literature
 
 I've made publications to support education at university level, as well as several articles written for international journals and conferences.
 
+<a id="Scientific-Publications-eBooks-and-Video-Tutorials"></a>
 ## Scientific Publications, eBooks, and Video Tutorials
 
 * [Modelação e Estimação – Uma introdução à Geoestatística (2010)](http://www.leg.ufpr.br/lib/exe/fetch.php/disciplinas:geoesalq:pira2012:numist_-_modelacao_e_estimacao_-sgems.pdf) (en: *Modeling and Estimation - An introduction to Geostatistics*) - This was a publication made to support Geostatics students at IST. It was originally released as a free e-book to [numist](http://numist.tecnico.ulisboa.pt/~numist.daemon/) student association which me and a group of colleagues had just founded. However I'm linking some other repository because the original seems to be down.
@@ -160,6 +164,7 @@ I've made publications to support education at university level, as well as seve
 
 <sup>[Back to top](#Index)</sup>
 
+<a id="White-Papers"></a>
 ## White Papers
 
 * [Learning Game: The Math Adventures of Oscar](https://www.researchgate.net/publication/277776242_Learning_Game_The_Math_Adventures_of_Oscar) (2015) - The game was developed to train memory and mathematical reasoning of children in the ages of 5 to 9 and was largely adapted from the concept of casual gaming, typically a kind of game with a small amount of required commitment where the game-play is extremely intuitive and it has a “just to pass the time” state of mind. This article documents the development and the chosen method of commercialization for this game.
@@ -168,6 +173,7 @@ I've made publications to support education at university level, as well as seve
 
 <sup>[Back to top](#Index)</sup>
 
+<a id="Peer-Reviewed-Articles-Conference-Papers-and-Posters"></a>
 ## Peer-Reviewed Articles, Conference Papers and Posters
 
 * H. Binet, P. Correia, N. Nosjean-Gorgeu, D. Renard, F. Geffroy, J.M. Chautru, D. Garner, [Proper Systemic Knowledge of Reservoir Volume Uncertainties in Depth Conversion](http://www.cspg.org/cspg/documents/Conference%20Website/Gussow/Archives/2018/Extended/Poster/D.Garner.pdf), Closing the Gap III - Advances in Applied Geomodeling for Hydrocarbon Reservoirs, October 8-11, Lake Louise, Alberta - Canada (2018)
@@ -209,34 +215,43 @@ Part XVII - Modeling of Energy Resources, p.565, DOI: 10.1007/978-3642-324086_12
 
 <sup>[Back to top](#Index)</sup>
 
+<a id="Graphic-Design"></a>
 # Graphic Design
 
+<a id="Branding-and-Logos"></a>
 ## Branding and Logos
 
 <sup>[Back to top](#Index)</sup>
 
+<a id="Icons"></a>
 ## Icons
 
 <sup>[Back to top](#Index)</sup>
 
+<a id="Marketing"></a>
 ## Marketing
 
 <sup>[Back to top](#Index)</sup>
 
+<a id="Scientific-Illustration"></a>
 ## Scientific Illustration
 
 <sup>[Back to top](#Index)</sup>
 
+<a id="Game-Art-and-Animation"></a>
 ## Game Art and Animation
 
 <sup>[Back to top](#Index)</sup>
 
+<a id="User-Experience"></a>
 # User Experience
 
+<a id="Widgets"></a>
 ## Widgets
 
 <sup>[Back to top](#Index)</sup>
 
+<a id="Musical-composition-and-Songwriting"></a>
 # Musical composition and Songwriting
 
 * [A Procura (The Search)](https://soundcloud.com/pedro-correia-712367707/a-procura) - This was an early sketch of a music for a video game (a kind of point and click crime novel) that was never finished. This is the type of music made to be played in loop (thus the repetition). It was made to give a sense of investigation, mystery, a searching for answers.
