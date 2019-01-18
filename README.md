@@ -239,6 +239,15 @@ I've used mostly vector graphics for a number of tasks related to branding, mark
 <a id="Marketing"></a>
 ## Marketing
 
+Although not an area for which I have a lot of experience I did design and develop a number of graphical products marketing related.
+
+![Logos](img/sideA2.png)
+
+![Logos](img/sideB.png)
+
+This flyer was developed as a two sided foldable, one side being of scientific nature (a poster in an international conference), the other corporate.
+
+
 <sup>[Back to top](#Index)</sup>
 
 <a id="Scientific-Illustration"></a>
