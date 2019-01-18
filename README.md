@@ -222,7 +222,9 @@ Part XVII - Modeling of Energy Resources, p.565, DOI: 10.1007/978-3642-324086_12
 ## Branding and Logos
 
 ![Logos](img/logolist.png)
-<small>From left to right the logos of GEOMS2, anteia, UncerTZ consortium, Kartotrak ("flat" style modification of a logo not originally designed by me), Isatis.neo.</small>
+<small>From left to right the logos of GEOMS2 (2013), anteia (2015), UncerTZ consortium (2016), Kartotrak (2018; "flat" style modification of a logo **not originally designed by me**), Isatis.neo (2018). The order is cronological. All of the projects were made with vectorial graphics. My software of choice to do so is [Inkscape](https://inkscape.org/).</small>
+
+
 
 <sup>[Back to top](#Index)</sup>
 
