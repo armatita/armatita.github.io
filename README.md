@@ -218,6 +218,8 @@ Part XVII - Modeling of Energy Resources, p.565, DOI: 10.1007/978-3642-324086_12
 <a id="Graphic-Design"></a>
 # Graphic Design
 
+I've used mostly vector graphics for a number of tasks related to branding, marketing, aesthetics, user experience, and art.
+
 <a id="Branding-and-Logos"></a>
 ## Branding and Logos
 
