@@ -222,6 +222,7 @@ Part XVII - Modeling of Energy Resources, p.565, DOI: 10.1007/978-3642-324086_12
 ## Branding and Logos
 
 ![Logos](img/logolist.png)
+<small>From left to right the logos of GEOMS2, anteia, UncerTZ consortium, Kartotrak ("flat" style modification of a logo not originally designed by me), Isatis.neo.</small>
 
 <sup>[Back to top](#Index)</sup>
 
