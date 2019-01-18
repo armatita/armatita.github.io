@@ -221,6 +221,8 @@ Part XVII - Modeling of Energy Resources, p.565, DOI: 10.1007/978-3642-324086_12
 <a id="Branding-and-Logos"></a>
 ## Branding and Logos
 
+![Logos](img/logolist.png)
+
 <sup>[Back to top](#Index)</sup>
 
 <a id="Icons"></a>
