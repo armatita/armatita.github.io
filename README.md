@@ -253,6 +253,16 @@ This flyer was developed as a two sided foldable, one side being of scientific n
 <a id="Scientific-Illustration"></a>
 ## Scientific Illustration
 
+I've published a number of works in international conferences and a few educational projects.
+
+The following is a static image of the poster [A Case Study Of A New Time-Depth Conversion Workflow Designed For Optimizing Recovery](http://www.earthdoc.org/publication/publicationdetails/?publication=93943) presented at ECMOR XVI - 16th European Conference on the Mathematics of Oil Recovery.
+
+![Logos](img/ecmor.png)
+
+The following is a static image of the poster [Proper Systemic Knowledge of Reservoir Volume Uncertainties in Depth Conversion](http://www.cspg.org/cspg/documents/Conference%20Website/Gussow/Archives/2018/Extended/Poster/D.Garner.pdf) presented at Closing the Gap III - Advances in Applied Geomodeling for Hydrocarbon Reservoirs.
+
+![Logos](img/gussow.png)
+
 <sup>[Back to top](#Index)</sup>
 
 <a id="Game-Art-and-Animation"></a>
