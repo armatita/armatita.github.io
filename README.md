@@ -106,6 +106,26 @@ I've worked in a reserach center (in geosciences), as university assistant lectu
 <a id="Software-Engineer-Geovariances"></a>
 ## Software Engineer (Geovariances)
 
+Entered Geovariances in 2016 for an R&D team to develop a new time to depth conversion software within a consortium named [UncerTZ](https://www.geovariances.com/en/news/uncertz-consortium-time-depth-conversion-evolved/). The software has been successfully completed and set to be released early 2019 ([brochure download](https://www.geovariances.com/en/ressources/uncertz-time-to-depth-conversion/)). This package will appear inside Isatis.neo, geostatics modeling software, to be released at the same time.
+
+Besides the completion of the main target some other of my achievements in Geovariances include:
+
+* General purpose development for Isatis.neo software.
+* Design of the splashscreen for Isatis.neo software.
+* Design of the logo for Isatis.neo software. (See: [Branding and Logos](#Branding-and-Logos))
+* Update of an older logo of a Geovariances software to a flat style. (See: [Branding and Logos](#Branding-and-Logos))
+* Co-writer of paper [A Case Study Of A New Time-Depth Conversion Workflow Designed For Optimizing Recovery](http://www.earthdoc.org/publication/publicationdetails/?publication=93943) submited for ECMOR XVI - 16th European Conference on the Mathematics of Oil Recovery. (see: [Peer-Reviewed Articles, Conference Papers and Posters](#Peer-Reviewed-Articles-Conference-Papers-and-Posters))
+* Designer of the poster [A Case Study Of A New Time-Depth Conversion Workflow Designed For Optimizing Recovery](http://www.earthdoc.org/publication/publicationdetails/?publication=93943) presented at ECMOR XVI - 16th European Conference on the Mathematics of Oil Recovery. (See: [Scientific Illustration](#Scientific-Illustration))
+* Co-writer of the paper [Proper Systemic Knowledge of Reservoir Volume Uncertainties in Depth Conversion](http://www.cspg.org/cspg/documents/Conference%20Website/Gussow/Archives/2018/Extended/Poster/D.Garner.pdf) submited for Closing the Gap III - Advances in Applied Geomodeling for Hydrocarbon Reservoirs. (see: [Peer-Reviewed Articles, Conference Papers and Posters](#Peer-Reviewed-Articles-Conference-Papers-and-Posters))
+* Designer of the poster [Proper Systemic Knowledge of Reservoir Volume Uncertainties in Depth Conversion](http://www.cspg.org/cspg/documents/Conference%20Website/Gussow/Archives/2018/Extended/Poster/D.Garner.pdf) presented at Closing the Gap III - Advances in Applied Geomodeling for Hydrocarbon Reservoirs. (See: [Scientific Illustration](#Scientific-Illustration))
+* Developer of new widgets in [Qt](https://www.qt.io/) for depth conversion workflow software.
+* Design of several icons in Geovariances software. (See: [Graphic Design](#Graphic-Design))
+* Design of marketing material. (See: [Marketing](#Marketing))
+* Technical reporting and documentation.
+* Client presentation.
+* Conference presentation (Poster Session).
+
+
 <sup>[Back to top](#Index)</sup>
 
 <a id="Co-Founder-anteia"></a>
