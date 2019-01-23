@@ -152,6 +152,8 @@ My employer was [IST](https://tecnico.ulisboa.pt/en/), an engineering University
 * [Geostatistics](https://fenix.tecnico.ulisboa.pt/disciplinas/G4517957/2018-2019/1-semestre) - For both Mining and Geology Engineering and Petroleum Engineering at Msc level, [IST](https://tecnico.ulisboa.pt/en/) University (2014/2015). 
 * [Stochastic Modeling of Oil Reservoirs](https://fenix.tecnico.ulisboa.pt/disciplinas/MRP3645111326/2017-2018/2-semestre/pagina-inicial) - For Petroleum Engineering at Msc level, [IST](https://tecnico.ulisboa.pt/en/) University (2014/2015). 
 
+To have an idea of the program of these courses you can check the powerpoint presentation I used in classes. It's available for [donwload in Research Gate](https://www.researchgate.net/publication/268811925_Student_Garden_Geostatistics_course).
+
 <sup>[Back to top](#Index)</sup>
 
 <a id="Researcher-Cerena"></a>
