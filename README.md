@@ -293,7 +293,7 @@ This flyer was developed as a two sided foldable, one side being of scientific n
 <a id="Scientific-Illustration"></a>
 ## Scientific Illustration
 
-You can see a better presentation of this project in my [Behance profile](https://www.behance.net/pedrocorre8962/).
+You can see a better presentation of these projects in my [Behance profile](https://www.behance.net/pedrocorre8962/).
 
 I've published a number of works in international conferences and a few educational projects.
 
@@ -311,6 +311,14 @@ The following is a static image of the poster [Proper Systemic Knowledge of Rese
 ## Game Art and Animation
 
 You can see a better presentation of this project in my [Behance profile](https://www.behance.net/pedrocorre8962/).
+
+These screenshots are from a demo presented to a book publisher in Lisbon that specialized manuals for the Portuguese language:
+
+![Learn Portuguese](img/learnportuguese.png)
+
+These screenshots are from a demo made to be presented to an university hospital in Lisbon:
+
+![Health and Education](img/healthandeducation.png)
 
 <sup>[Back to top](#Index)</sup>
 
