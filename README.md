@@ -131,6 +131,17 @@ Besides the completion of the main target some other of my achievements in Geova
 <a id="Co-Founder-anteia"></a>
 ## Co-Founder (anteia)
 
+In 2014 and 2015 me a friend started a project company named "anteia" with the pursuit of building software for scientific and educational purposes. A bit more than year on the going we had to halt the project due to lack of funding. However, in the meanwhile several different educational products and demos were released and presented to potential clients.
+
+* The Math Adventures of Oscar - an android game to teach basic math. (See: [Educational Apps](#Educational-Apps))
+* The Algebra Adventures of Oscar - a more advanced version of the previous game presenting formula directly. (See: [Educational Apps](#Educational-Apps))
+* The Number Adventures of Oscar - a visually guided teaching tool for division and multiplication. (See: [Educational Apps](#Educational-Apps))
+* The Puzzle Adventures of OScar - a puzzle solving game. (See: [Educational Apps](#Educational-Apps))
+* The Time Adventures of Oscar - a game that would teach players on how to tell the time (from an anologic model clock). (See: [Educational Apps](#Educational-Apps))
+* Saude e Educação (Health and Education; Demo) - an interactive manual for teaching important concepts biology for healthcare (anatomy). (See: [Scientific Illustration](#Scientific-Illustration))
+* Aprender Português (Learning Portuguese; Demo) - an interactive experience into teaching portuguese to foreign students. (See: [Game Art and Animation](#Game-Art-and-Animation))
+* WALF - a very visual point and click crime game. A interactive novelization of a script written for the purpose. (See: [Game Art and Animation](#Game-Art-and-Animation) and [Musical Composition and Songwriting](#Musical-composition-and-Songwriting))
+
 <sup>[Back to top](#Index)</sup>
 
 <a id="Assistant-Lecturer-IST"></a>
@@ -148,22 +159,22 @@ My employer was [IST](https://tecnico.ulisboa.pt/en/), an engineering University
 
 My employer was research center [Cerena](https://cerena.ist.utl.pt/), part of [IST](https://tecnico.ulisboa.pt/en/) University.
 
-* 2010 - Initiated research for new seismic inversion methodology named "Direct Inversion of Porosity". <kbd>Applied Mathematics</kbd> <kbd>Geophysics</kbd> <kbd>Geostatistics</kbd> 
-* 2010 - Developed octave version of Fillworks software (cut and fill studies). <kbd>Scientific Software</kbd> <kbd>Earthmoving</kbd> <kbd>Cut and Fill</kbd>  
-* 2010 - Developed python standalone version of [Fillworks software](http://sourceforge.net/projects/fillworks/). <kbd>Python</kbd>  <kbd>Scientific Software</kbd> <kbd>Earthmoving</kbd> <kbd>Cut and Fill</kbd>
-* 2011 - Finished research for "Direct Inversion of Porosity" project and developed the algorithm implementation of the same method. <kbd>Python</kbd> <kbd>C</kbd> <kbd>Genetic Programming</kbd>
-* 2011 - Developed [ECMWF parser](http://sourceforge.net/projects/ecmwfparser/) software for environmental studies using re-analysis ECMWF data. <kbd>Python</kbd> <kbd>GRIB</kbd> <kbd>Geostatistics</kbd> <kbd>Environment</kbd> <kbd>Desertification</kbd> <kbd>Atmospheric sciences</kbd>
-* 2012 - Developed [GSI student toolbox](http://sourceforge.net/projects/gsistb/?source=directory) software for seismic inversion and oil reservoir characterization. <kbd>Python</kbd> <kbd>C</kbd> <kbd>Education</kbd> <kbd>Scientific Software</kbd> <kbd>Geophysics</kbd>
-* 2012 - Research on the Global Stochastic Inversion method and development of a new software implementation of the same method for hypothesis testing. <kbd>Python</kbd> <kbd>Geostatistics</kbd> <kbd>Geophysics</kbd>
-* 2013 - Development of JimFusion software for image processing and GIS analysis (does not have public release). <kbd>GIS</kbd> <kbd>3D visualization</kbd> <kbd>Imaging</kbd>
-* 2013 - Research and development of the methodology and algorithm for Block Indicator Simulation. <kbd>Python</kbd> <kbd>Applied Mathematics</kbd> <kbd>Uncertainty Analysis</kbd> <kbd>Geostatistics</kbd>
-* 2013 - Characterization of an ore mine in Portugal using Block Indicator Simulation (see: [Uncertainty Assessment of the Orebodies Geometry Using Block Indicator Simulation](https://link.springer.com/chapter/10.1007/978-3-642-32408-6_158)). <kbd>Mining</kbd> <kbd>Geology</kbd> 
-* 2013 - Developed algorithm and software for soil contamination assessment (see: [Geostatistical Data Integration Model for Contamination Assessment](https://link.springer.com/article/10.1007/s11004-013-9466-1)). <kbd>Python</kbd> <kbd>Environment</kbd> <kbd>Soil Contamination</kbd> <kbd>Genetic Programming</kbd>
-* 2013 - Development of [dAnalytics](http://sourceforge.net/projects/danalytics/) software for class support in discriminant analysis teaching. <kbd>Applied Mathematics</kbd> <kbd>Education</kbd>
-* 2013 - Has begun development of geoscience modeling software [GEOMS2](http://sourceforge.net/projects/geoms2/). <kbd>Python</kbd> <kbd>C</kbd> <kbd>2D visualization</kbd> <kbd>3D visualization</kbd> <kbd>UX</kbd> <kbd>Software Design</kbd>
+* 2010 - Initiated research for new seismic inversion methodology named "Direct Inversion of Porosity". 
+* 2010 - Developed octave version of Fillworks software (cut and fill studies). 
+* 2010 - Developed python standalone version of [Fillworks software](http://sourceforge.net/projects/fillworks/). 
+* 2011 - Finished research for "Direct Inversion of Porosity" project and developed the algorithm implementation of the same method. 
+* 2011 - Developed [ECMWF parser](http://sourceforge.net/projects/ecmwfparser/) software for environmental studies using re-analysis ECMWF data.
+* 2012 - Developed [GSI student toolbox](http://sourceforge.net/projects/gsistb/?source=directory) software for seismic inversion and oil reservoir characterization. 
+* 2012 - Research on the Global Stochastic Inversion method and development of a new software implementation of the same method for hypothesis testing.
+* 2013 - Development of JimFusion software for image processing and GIS analysis (does not have public release). 
+* 2013 - Research and development of the methodology and algorithm for Block Indicator Simulation. 
+* 2013 - Characterization of an ore mine in Portugal using Block Indicator Simulation (see: [Uncertainty Assessment of the Orebodies Geometry Using Block Indicator Simulation](https://link.springer.com/chapter/10.1007/978-3-642-32408-6_158)).
+* 2013 - Developed algorithm and software for soil contamination assessment (see: [Geostatistical Data Integration Model for Contamination Assessment](https://link.springer.com/article/10.1007/s11004-013-9466-1)). 
+* 2013 - Development of [dAnalytics](http://sourceforge.net/projects/danalytics/) software for class support in discriminant analysis teaching. 
+* 2013 - Has begun development of geoscience modeling software [GEOMS2](http://sourceforge.net/projects/geoms2/). 
 * 2014 - Has finished development of geosciences modeling software [GEOMS2](http://sourceforge.net/projects/geoms2/).
-* 2014 - Has done research in elastic seismic inversion (see: [Multidimensional scaling for the evaluation of a geostatistical seismic elastic inversion methodology](http://library.seg.org/doi/abs/10.1190/geo2013-0037.1)). <kbd>Geostatistics</kbd> <kbd>Geophysics</kbd>
-* 2015 - Has done research and development in gradient pore pressure modeling, specifically data analysis and visualization (see: [Gradient Pore Pressure Modelling with Uncertain Well Data](http://www.earthdoc.org/publication/publicationdetails/?publication=82232)). <kbd>Oil & Gas</kbd> <kbd>Geostatistics</kbd> <kbd>Data Analysis</kbd>
+* 2014 - Has done research in elastic seismic inversion (see: [Multidimensional scaling for the evaluation of a geostatistical seismic elastic inversion methodology](http://library.seg.org/doi/abs/10.1190/geo2013-0037.1)). 
+* 2015 - Has done research and development in gradient pore pressure modeling, specifically data analysis and visualization (see: [Gradient Pore Pressure Modelling with Uncertain Well Data](http://www.earthdoc.org/publication/publicationdetails/?publication=82232)). 
 
 <sup>[Back to top](#Index)</sup>
 
