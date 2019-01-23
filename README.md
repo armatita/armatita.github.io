@@ -149,8 +149,8 @@ In 2014 and 2015 me a friend started a project company named "anteia" with the p
 
 My employer was [IST](https://tecnico.ulisboa.pt/en/), an engineering University in Lisbon. This happened in the years of 2014 and 2015.
 
-* [Geostatistics](https://fenix.tecnico.ulisboa.pt/disciplinas/G4517957/2018-2019/1-semestre) - For both Mining and Geology Engineering and Petroleum Engineering at Msc level, [IST](https://tecnico.ulisboa.pt/en/) University (2014/2015). <kbd>Education</kbd> <kbd>Geostatistics</kbd>
-* [Stochastic Modeling of Oil Reservoirs](https://fenix.tecnico.ulisboa.pt/disciplinas/MRP3645111326/2017-2018/2-semestre/pagina-inicial) - For Petroleum Engineering at Msc level, [IST](https://tecnico.ulisboa.pt/en/) University (2014/2015). <kbd>Education</kbd> <kbd>Geostatistics</kbd> <kbd>Uncertainty Analysis</kbd> <kbd>Seismic Inversion</kbd> <kbd>Stochastic Simulation</kbd>
+* [Geostatistics](https://fenix.tecnico.ulisboa.pt/disciplinas/G4517957/2018-2019/1-semestre) - For both Mining and Geology Engineering and Petroleum Engineering at Msc level, [IST](https://tecnico.ulisboa.pt/en/) University (2014/2015). 
+* [Stochastic Modeling of Oil Reservoirs](https://fenix.tecnico.ulisboa.pt/disciplinas/MRP3645111326/2017-2018/2-semestre/pagina-inicial) - For Petroleum Engineering at Msc level, [IST](https://tecnico.ulisboa.pt/en/) University (2014/2015). 
 
 <sup>[Back to top](#Index)</sup>
 
