@@ -125,7 +125,6 @@ Besides the completion of the main target some other of my achievements in Geova
 * Client presentation.
 * Conference presentation (Poster Session).
 
-
 <sup>[Back to top](#Index)</sup>
 
 <a id="Co-Founder-anteia"></a>
@@ -250,10 +249,12 @@ Part XVII - Modeling of Energy Resources, p.565, DOI: 10.1007/978-3642-324086_12
 <a id="Graphic-Design"></a>
 # Graphic Design
 
-I've used mostly vector graphics for a number of tasks related to branding, marketing, aesthetics, user experience, and art.
+I've used mostly vector graphics for a number of tasks related to branding, marketing, aesthetics, user experience, and art. You can check my [Behance profile](https://www.behance.net/pedrocorre8962/) for a better experience in analyzing graphical material.
 
 <a id="Branding-and-Logos"></a>
 ## Branding and Logos
+
+You can see a better presentation of this project in my [Behance profile](https://www.behance.net/pedrocorre8962/).
 
 ![Logos](img/logolist.png)
 <small>From left to right the logos of GEOMS2 (2013), anteia (2015), UncerTZ consortium (2016), Kartotrak (2018; "flat" style modification of a logo **not originally designed by me**), Isatis.neo (2018). The order is cronological. All of the projects were made with vectorial graphics. My software of choice to do so is [Inkscape](https://inkscape.org/).</small>
@@ -266,10 +267,14 @@ I've used mostly vector graphics for a number of tasks related to branding, mark
 <a id="Icons"></a>
 ## Icons
 
+You can see a better presentation of this project in my [Behance profile](https://www.behance.net/pedrocorre8962/).
+
 <sup>[Back to top](#Index)</sup>
 
 <a id="Marketing"></a>
 ## Marketing
+
+You can see a better presentation of this project in my [Behance profile](https://www.behance.net/pedrocorre8962/).
 
 Although not an area for which I have a lot of experience I did design and develop a number of graphical products marketing related.
 
@@ -284,6 +289,8 @@ This flyer was developed as a two sided foldable, one side being of scientific n
 
 <a id="Scientific-Illustration"></a>
 ## Scientific Illustration
+
+You can see a better presentation of this project in my [Behance profile](https://www.behance.net/pedrocorre8962/).
 
 I've published a number of works in international conferences and a few educational projects.
 
@@ -300,6 +307,8 @@ The following is a static image of the poster [Proper Systemic Knowledge of Rese
 <a id="Game-Art-and-Animation"></a>
 ## Game Art and Animation
 
+You can see a better presentation of this project in my [Behance profile](https://www.behance.net/pedrocorre8962/).
+
 <sup>[Back to top](#Index)</sup>
 
 <a id="User-Experience"></a>
@@ -312,6 +321,8 @@ The following is a static image of the poster [Proper Systemic Knowledge of Rese
 
 <a id="Musical-composition-and-Songwriting"></a>
 # Musical composition and Songwriting
+
+For a better presentation you can check all tracks in my [Soundcloud profile](https://soundcloud.com/pedro-correia-712367707).
 
 * [A Procura (The Search)](https://soundcloud.com/pedro-correia-712367707/a-procura) - This was an early sketch of a music for a video game (a kind of point and click crime novel) that was never finished. This is the type of music made to be played in loop (thus the repetition). It was made to give a sense of investigation, mystery, a searching for answers.
 
