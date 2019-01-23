@@ -5,8 +5,9 @@
 ![Github profile](ico/github/github_icon.png) [Github](https://github.com/armatita)
 ![SO profile](ico/stackoverflow/so-icon.png) [Stack Overflow](https://stackoverflow.com/users/2868335/armatita?tab=profile)
 ![RG profile](ico/researchgate/rg_icon.png) [Research Gate](https://www.researchgate.net/profile/Pedro_Correia2)
-![Github profile](ico/linkedin/ln_logo.png) [Linkedin](https://www.linkedin.com/in/pedropintocorreia/)
-![Github profile](ico/behance/behance16.png) [Behance](https://www.behance.net/pedrocorre8962/)
+![Linkedin profile](ico/linkedin/ln_logo.png) [Linkedin](https://www.linkedin.com/in/pedropintocorreia/)
+![Behance profile](ico/behance/behance16.png) [Behance](https://www.behance.net/pedrocorre8962/)
+![Soundcloud profile](ico/soundcloud/soundcloud.png) [Soundcloud](https://soundcloud.com/pedro-correia-712367707)
 
 Finished [MSc](https://fenix.tecnico.ulisboa.pt/cursos/megm/descricao) degree at [IST](https://tecnico.ulisboa.pt/en/) 
 in [2009](https://fenix.tecnico.ulisboa.pt/downloadFile/395139480478/NaturalFractureNetworks.pdf) and immediately after 
