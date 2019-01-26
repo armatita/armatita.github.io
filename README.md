@@ -138,7 +138,7 @@ In 2014 and 2015 me a friend started a project company named "anteia" with the p
 * The Number Adventures of Oscar - a visually guided teaching tool for division and multiplication. (See: [Educational Apps](#Educational-Apps))
 * The Puzzle Adventures of OScar - a puzzle solving game. (See: [Educational Apps](#Educational-Apps))
 * The Time Adventures of Oscar - a game that would teach players on how to tell the time (from an anologic model clock). (See: [Educational Apps](#Educational-Apps))
-* Saude e Educação (Health and Education; Demo) - an interactive manual for teaching important concepts biology for healthcare (anatomy). (See: [Scientific Illustration](#Scientific-Illustration))
+* Saude e Educação (Health and Education; Demo) - an interactive manual for teaching important concepts biology for healthcare (anatomy). (See: [Game Art and Animation](#Game-Art-and-Animation))
 * Aprender Português (Learning Portuguese; Demo) - an interactive experience into teaching portuguese to foreign students. (See: [Game Art and Animation](#Game-Art-and-Animation))
 * WALF - a very visual point and click crime game. A interactive novelization of a script written for the purpose. (See: [Game Art and Animation](#Game-Art-and-Animation) and [Musical Composition and Songwriting](#Musical-composition-and-Songwriting))
 
@@ -309,8 +309,6 @@ The following is a static image of the poster [Proper Systemic Knowledge of Rese
 
 <a id="Game-Art-and-Animation"></a>
 ## Game Art and Animation
-
-You can see a better presentation of this project in my [Behance profile](https://www.behance.net/pedrocorre8962/).
 
 These screenshots are from a demo presented to a book publisher in Lisbon that specialized manuals for the Portuguese language:
 
