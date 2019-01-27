@@ -323,6 +323,10 @@ These screenshots are from a demo made to be presented to an university hospital
 
 ![Health and Education](img/healthandeducation.png)
 
+This is a built set of the proof of concept of a point and click game which had a lot of vectorial art with sprite and programatic animation.
+
+![walf](img/walf.png)
+
 <sup>[Back to top](#Index)</sup>
 
 <a id="User-Experience"></a>
