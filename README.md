@@ -329,7 +329,7 @@ This is a built set of screenshots from the proof of concept of a point and clic
 
 Finally here is an example of some of the art for the series of "Oscar" games (a cat) which includes one of the release titles and one that was being prepared when we finally decided to end anteia:
 
-
+![oscar](img/oscarex.png)
 
 <sup>[Back to top](#Index)</sup>
 
