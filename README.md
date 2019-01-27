@@ -273,6 +273,10 @@ And some other examples made in isometric style:
 
 ![Icons](img/icons_iso.png)
 
+More recently I've prepared the icon set for the upcomming software Isatis.neo. This required the creation of images that described abstract operations. For this effect I've conceptualized a style which took hints from technical drawing and started making experiments with shades of yellow and orange as representative color. Here are some of the prototypes (some were eventually accepted for the final product):
+
+![Icons](img/gvset.png)
+
 <sup>[Back to top](#Index)</sup>
 
 <a id="Marketing"></a>
