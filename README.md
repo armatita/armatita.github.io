@@ -91,7 +91,7 @@ a GUI supported environment.
 <a id="Educational-Apps"></a>
 ## Educational Apps
 
-* [The Math Adventures of Oscar](https://play.google.com/store/apps/details?id=com.anteia.tmaoo&hl=en) - basic math casual game with several modes with the purpose of providing exercises in different operations.
+* [The Math Adventures of Oscar](https://play.google.com/store/apps/details?id=com.anteia.tmaoo&hl=en) - basic math casual game with several modes with the purpose of providing exercises in different operations. (given some changes in google policies this game requires some updates prior to be put in the store. I'm currently in the process of doing so.)
 * [The Algebra Adventures of Oscar](https://play.google.com/store/apps/details?id=com.anteia.taaoo&hl=en) - a game with exercises a bit more complex than the previous showing directly mathematical formula for progression in algebra skills.
 * [The Number Adventures of Oscar](https://play.google.com/store/apps/details?id=com.anteia.tnaoo&hl=en) - a visual approach to mathematical operations like multiplication and division.
 * [The Puzzle Adventures of Oscar](https://play.google.com/store/apps/details?id=com.anteia.tpaoo&hl=en) - a casual puzzle game played by dragging pieces to the correct position.
@@ -327,10 +327,16 @@ This is a built set of screenshots from the proof of concept of a point and clic
 
 ![walf](img/walf.png)
 
+Finally here is an example of some of the art for the series of "Oscar" games (a cat) which includes one of the release titles and one that was being prepared when we finally decided to end anteia:
+
+
+
 <sup>[Back to top](#Index)</sup>
 
 <a id="User-Experience"></a>
 # User Experience
+
+I've made quite a few new widgets using UI library Qt. I've also designed experiences in small video games and scientific workflows (desktop).
 
 <a id="Widgets"></a>
 ## Widgets
