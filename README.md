@@ -270,7 +270,13 @@ You can see a better presentation of this project in my [Behance profile](https:
 <a id="Icons"></a>
 ## Icons
 
-You can see a better presentation of this project in my [Behance profile](https://www.behance.net/pedrocorre8962/).
+I've made a number of icons in the past for multiple projects. These are general purpose examples:
+
+![Icons](img/icons_normal.png)
+
+And some other examples made in isometric style:
+
+![Icons](img/icons_iso.png)
 
 <sup>[Back to top](#Index)</sup>
 
