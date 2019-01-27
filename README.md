@@ -252,18 +252,13 @@ Part XVII - Modeling of Energy Resources, p.565, DOI: 10.1007/978-3642-324086_12
 <a id="Graphic-Design"></a>
 # Graphic Design
 
-I've used mostly vector graphics for a number of tasks related to branding, marketing, aesthetics, user experience, and art. You can check my [Behance profile](https://www.behance.net/pedrocorre8962/) for a better experience in analyzing graphical material.
+I've used mostly vector graphics for a number of tasks related to branding, marketing, aesthetics, user experience, and art. You can check my [Behance profile](https://www.behance.net/pedrocorre8962/) for a better experience in analyzing graphical material (only some of the projects are present in Behance).
 
 <a id="Branding-and-Logos"></a>
 ## Branding and Logos
 
-You can see a better presentation of this project in my [Behance profile](https://www.behance.net/pedrocorre8962/).
-
 ![Logos](img/logolist.png)
-<small>From left to right the logos of GEOMS2 (2013), anteia (2015), UncerTZ consortium (2016), Kartotrak (2018; "flat" style modification of a logo **not originally designed by me**), Isatis.neo (2018). The order is cronological. All of the projects were made with vectorial graphics. My software of choice to do so is [Inkscape](https://inkscape.org/).</small>
-
-![Logos](img/logoshow.png)
-<small>Logos in their final form for brand release. I've only developed the lettering for some, namely GEOMS2, anteia, and UncerTZ.</small>
+<small>From left to right the logos of GEOMS2 (2013), anteia (2015), UncerTZ consortium (2016), Kartotrak (2018; "flat" style modification of a logo **not originally designed by me**), Isatis.neo (2018; release 2019). The order is cronological. All of the projects were made with vectorial graphics. My software of choice to do so is [Inkscape](https://inkscape.org/).</small>
 
 <sup>[Back to top](#Index)</sup>
 
