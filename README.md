@@ -336,10 +336,36 @@ Finally here is an example of some of the art for the series of "Oscar" games (a
 <a id="User-Experience"></a>
 # User Experience
 
-I've made quite a few new widgets using UI library Qt. I've also designed experiences in small video games and scientific workflows (desktop).
+I've made quite a few new widgets using UI library Qt. I've also designed experiences in small video games (using game engines) and workflows for scientific operations (desktop).
 
 <a id="Widgets"></a>
 ## Widgets
+
+This section serves to provide examples of some widgets I made either in prototypes or for production. All of them were implemented in Qt (either directly in C++ or Python for the prototypes, eg PyQt or PySide).
+
+This is an implementation I made in Qt for a switch button very tipical in mobile OS:
+
+![switchbutton](img/gif1.gif)
+
+The project actually associated with another to create a kind of toggle button that accepts external widgets. This was created to great simplify the process of defining the inputs of an operation that relies heavily on multiple parameters. You'll notice that some other customized widgets made to further improve the experience.
+
+![toggle button](img/switchWidget.gif)
+
+The following images are from a prototype to multi-select variables from a file (in our case a type of object that can have other types of objects with different categories):
+
+![variable selection 1](img/variableSelection0.gif)
+
+![variable selection 2](img/variableSelection1.gif)
+
+![variable selection 3](img/variableSelection2.gif)
+
+This final example is the prototype implementation of a Ribbon alike widget in the Qt framework:
+
+![ribbon](img/prototypeRibbonQt.gif)
+
+This project took some experimentation also to deal with re-sizing the ribbon: 
+
+![stack widget resizing](img/stackwidgetRibbonQt.gif)
 
 <sup>[Back to top](#Index)</sup>
 
