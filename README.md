@@ -42,6 +42,7 @@ for Android and frequently releases online publications and software.
   * [Game Art and Animation](#Game-Art-and-Animation)
 * [User Experience](#User-Experience)
   * [Widgets](#Widgets)
+* [Video Production](#Video-Production)
 * [Musical composition and Songwriting](#Musical-composition-and-Songwriting)
 
 <a id="Software"></a>
@@ -107,7 +108,7 @@ I've worked in a reserach center (in geosciences), as university assistant lectu
 <a id="Software-Engineer-Geovariances"></a>
 ## Software Engineer (Geovariances)
 
-Entered Geovariances in 2016 for an R&D team to develop a new time to depth conversion software within a consortium named [UncerTZ](https://www.geovariances.com/en/news/uncertz-consortium-time-depth-conversion-evolved/). The software has been successfully completed and set to be released early 2019 ([brochure download](https://www.geovariances.com/en/ressources/uncertz-time-to-depth-conversion/)). This package will appear inside Isatis.neo, geostatics modeling software, to be released at the same time.
+Entered Geovariances in 2016 for an R&D team to develop a new time to depth conversion software within a consortium named [UncerTZ](https://www.geovariances.com/en/news/uncertz-consortium-time-depth-conversion-evolved/). The software has been successfully completed and set to be released early 2019 ([Isatis.neo - Petroleum edition](https://www.geovariances.com/en/conversion-and-uncertainties-workflow/)). This package will appear inside Isatis.neo, geostatics modeling software, to be released at the same time.
 
 Besides the completion of the main target some other of my achievements in Geovariances include:
 
@@ -119,14 +120,17 @@ Besides the completion of the main target some other of my achievements in Geova
 * Designer of the poster [A Case Study Of A New Time-Depth Conversion Workflow Designed For Optimizing Recovery](http://www.earthdoc.org/publication/publicationdetails/?publication=93943) presented at ECMOR XVI - 16th European Conference on the Mathematics of Oil Recovery. (See: [Scientific Illustration](#Scientific-Illustration))
 * Co-writer of the paper [Proper Systemic Knowledge of Reservoir Volume Uncertainties in Depth Conversion](http://www.cspg.org/cspg/documents/Conference%20Website/Gussow/Archives/2018/Extended/Poster/D.Garner.pdf) submited for Closing the Gap III - Advances in Applied Geomodeling for Hydrocarbon Reservoirs. (see: [Peer-Reviewed Articles, Conference Papers and Posters](#Peer-Reviewed-Articles-Conference-Papers-and-Posters))
 * Designer of the poster [Proper Systemic Knowledge of Reservoir Volume Uncertainties in Depth Conversion](http://www.cspg.org/cspg/documents/Conference%20Website/Gussow/Archives/2018/Extended/Poster/D.Garner.pdf) presented at Closing the Gap III - Advances in Applied Geomodeling for Hydrocarbon Reservoirs. (See: [Scientific Illustration](#Scientific-Illustration))
-* Developer of new widgets in [Qt](https://www.qt.io/) for depth conversion workflow software.
+* Prototyping/Developer of new widgets in [Qt](https://www.qt.io/) for depth conversion workflow software (See: [Widgets](#Widgets)).
 * Design of several icons in Geovariances software. (See: [Graphic Design](#Graphic-Design))
 * Design of marketing material. (See: [Marketing](#Marketing))
 * Technical reporting and documentation.
 * Client presentation.
 * Conference presentation (Poster Session).
+* Co-writer of the paper [Integration of Fault Location Uncertainty in Time to Depth Conversion](https://eage.eventsair.com/81st-eage-annual-conference-and-exhibtion/) to be published in June 2019 in the [EAGE Conference 2019 - London](https://eage.eventsair.com/81st-eage-annual-conference-and-exhibtion/).
+* Co-writer of the paper [Emergence of edge scenarios in uncertainty studies for reservoir trap analysis](https://seg.org/Annual-Meeting-2019) to be published in September 2019 in the [SEG Annual Meeting - London](https://seg.org/Annual-Meeting-2019).
 * Writer of technical opinion article "Walking the Rim of Depth Conversion Technology" in EAGE Daily News ([EAGE Conference 2019 - London](https://eage.eventsair.com/81st-eage-annual-conference-and-exhibtion/)).
-* Writer of technical opinion article "Uncertainty in Depth Conversion: Why should I care?" in EAGE Daily News ([EAGE Conference 2019 - London](https://eage.eventsair.com/81st-eage-annual-conference-and-exhibtion/))
+* Writer of technical opinion article "Uncertainty in Depth Conversion: Why should I care?" in EAGE Daily News ([EAGE Conference 2019 - London](https://eage.eventsair.com/81st-eage-annual-conference-and-exhibtion/)).
+* Production of the [promo video for Isatis.neo](https://www.youtube.com/watch?v=ge-dMqsSFmo) software. (See: [Video Production](#Video-Production))
 
 <sup>[Back to top](#Index)</sup>
 
@@ -368,6 +372,13 @@ This final example is the prototype implementation of a Ribbon alike widget in t
 This project took some experimentation also to deal with re-sizing the ribbon: 
 
 ![stack widget resizing](img/stackwidgetRibbonQt.gif)
+
+<sup>[Back to top](#Index)</sup>
+
+<a id="Video-Production"></a>
+# Video Production
+
+I've recently produced the [promo video for Isatis.neo software](https://www.youtube.com/watch?v=ge-dMqsSFmo).
 
 <sup>[Back to top](#Index)</sup>
 
