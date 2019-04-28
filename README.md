@@ -125,6 +125,8 @@ Besides the completion of the main target some other of my achievements in Geova
 * Technical reporting and documentation.
 * Client presentation.
 * Conference presentation (Poster Session).
+* Writer of technical opinion article "Walking the Rim of Depth Conversion Technology" in EAGE Daily News ([EAGE Conference 2019 - London](https://eage.eventsair.com/81st-eage-annual-conference-and-exhibtion/)).
+* Writer of technical opinion article "Uncertainty in Depth Conversion: Why should I care?" in EAGE Daily News ([EAGE Conference 2019 - London](https://eage.eventsair.com/81st-eage-annual-conference-and-exhibtion/))
 
 <sup>[Back to top](#Index)</sup>
 
