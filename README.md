@@ -127,7 +127,7 @@ Besides the completion of the main target some other of my achievements in Geova
 * Client presentation.
 * Conference presentation (Poster Session).
 * Co-writer of the paper [Integration of Fault Location Uncertainty in Time to Depth Conversion](https://eage.eventsair.com/81st-eage-annual-conference-and-exhibtion/) to be published in June 2019 in the [EAGE Conference 2019 - London](https://eage.eventsair.com/81st-eage-annual-conference-and-exhibtion/).
-* Co-writer of the paper [Emergence of edge scenarios in uncertainty studies for reservoir trap analysis](https://seg.org/Annual-Meeting-2019) to be published in September 2019 in the [SEG Annual Meeting - London](https://seg.org/Annual-Meeting-2019).
+* Co-writer of the paper [Emergence of edge scenarios in uncertainty studies for reservoir trap analysis](https://seg.org/Annual-Meeting-2019) to be published in September 2019 in the [SEG Annual Meeting - San Antonio](https://seg.org/Annual-Meeting-2019).
 * Writer of technical opinion article "Walking the Rim of Depth Conversion Technology" in EAGE Daily News ([EAGE Conference 2019 - London](https://eage.eventsair.com/81st-eage-annual-conference-and-exhibtion/)).
 * Writer of technical opinion article "Uncertainty in Depth Conversion: Why should I care?" in EAGE Daily News ([EAGE Conference 2019 - London](https://eage.eventsair.com/81st-eage-annual-conference-and-exhibtion/)).
 * Production of the [promo video for Isatis.neo](https://www.youtube.com/watch?v=ge-dMqsSFmo) software. (See: [Video Production](#Video-Production))
