@@ -106,9 +106,9 @@ a GUI supported environment.
 I've worked in a reserach center (in geosciences), as university assistant lecturer and as a software engineer in a company which develops software for scientific purposes. I've also, at some point, started my own endeavour (with a friend) in building a company to produce digital products for education.
 
 <a id="Software-Engineer-Geovariances"></a>
-## Software Engineer (Geovariances)
+## Software Engineer (Geovariances, France)
 
-Entered Geovariances in 2016 for an R&D team to develop a new time to depth conversion software within a consortium named [UncerTZ](https://www.geovariances.com/en/news/uncertz-consortium-time-depth-conversion-evolved/). The software has been successfully completed and set to be released early 2019 ([Isatis.neo - Petroleum edition](https://www.geovariances.com/en/conversion-and-uncertainties-workflow/)). This package will appear inside Isatis.neo, geostatics modeling software, to be released at the same time.
+Worked in Geovariances, 2016-2019, within a R&D team to develop a new time to depth conversion software within a consortium named [UncerTZ](https://www.geovariances.com/en/news/uncertz-consortium-time-depth-conversion-evolved/). The software has been successfully completed and set to be released early 2019 ([Isatis.neo - Petroleum edition](https://www.geovariances.com/en/conversion-and-uncertainties-workflow/)). This package will appear inside Isatis.neo, geostatics modeling software, to be released at the same time.
 
 Besides the completion of the main target some other of my achievements in Geovariances include:
 
