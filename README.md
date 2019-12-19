@@ -26,6 +26,7 @@ for Android and frequently releases online publications and software.
   * [Open-Source Software](#Open-Source-Software)
   * [Educational Apps](#Educational-Apps)
 * [Work Experience](#Work-Experience)
+  * [Consultant (UI\Software Engineering)](#Consultant-UI-Eyeware)
   * [Software Engineer](#Software-Engineer-Geovariances)
   * [Co-Founder](#Co-Founder-anteia)
   * [University Assistant Lecturer](#Assistant-Lecturer-IST)
@@ -52,6 +53,8 @@ I've produced desktop software in several scientific fields, both commercial and
 
 <a id="Commercial-Software"></a>
 ## Commercial Software 
+
+* [GazeSense](https://eyeware.tech/gazesense/) - Performed functions on the level of architecture, UX, UI, and graphical design. GazeSense is a software specialized in unassisted gaze tracking.
 
 * [Isatis.neo](https://www.geovariances.com/en/software-geovariances/) - It developed tools for this and other software solutions in Geovariances. Isatis.neo and other Geovariances products use geostatistics to perform spatial estimation in several sectors related to spatial imaging, namely Oil & Gas, Mining, Environment, Hydrogeology, Contamination, etc.
 
@@ -104,6 +107,11 @@ a GUI supported environment.
 # Work Experience
 
 I've worked in a reserach center (in geosciences), as university assistant lecturer and as a software engineer in a company which develops software for scientific purposes. I've also, at some point, started my own endeavour (with a friend) in building a company to produce digital products for education.
+
+<a id="Consultant-UI-Eyeware"></a>
+## Consultant (UI\Software Engineering) (Eyeware, Switzerland)
+
+Based in Lisbon. Started working for [Eyeware](https://eyeware.tech/) in September, 2019. It is part of my functions to further develop Eyeware products, namely the UI\UX for [GazeSense](https://eyeware.tech/gazesense/).
 
 <a id="Software-Engineer-Geovariances"></a>
 ## Software Engineer (Geovariances, France)
