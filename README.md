@@ -8,7 +8,7 @@
 ![Linkedin profile](ico/linkedin/ln_logo.png) [Linkedin](https://www.linkedin.com/in/pedropintocorreia/)
 ![Behance profile](ico/behance/behance16.png) [Behance](https://www.behance.net/pedrocorre8962/)
 ![Soundcloud profile](ico/soundcloud/soundcloud.png) [Soundcloud](https://soundcloud.com/pedro-correia-712367707)
-[ORCID](https://orcid.org/0000-0002-0399-4982)
+ | [ORCID](https://orcid.org/0000-0002-0399-4982)
 
 Finished [MSc](https://fenix.tecnico.ulisboa.pt/cursos/megm/descricao) degree at [IST](https://tecnico.ulisboa.pt/en/) 
 in [2009](https://fenix.tecnico.ulisboa.pt/downloadFile/395139480478/NaturalFractureNetworks.pdf) and immediately after 
