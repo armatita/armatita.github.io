@@ -224,6 +224,12 @@ I've made publications to support education at university level, as well as seve
 <a id="Peer-Reviewed-Articles-Conference-Papers-and-Posters"></a>
 ## Peer-Reviewed Articles, Conference Papers and Posters
 
+* P. Correia, J. Chautru, Y. Meric, F. Geffroy, H. Binet, P. Ruffo and L. Bazzana, [Automatic Scenarios Extraction from Depth Uncertainty Evaluation](https://www.earthdoc.org/content/papers/10.3997/2214-4609.201902184), Petroleum Geostatistics 2019, Sep 2019, Volume 2019, p.1 - 5, https://doi.org/10.3997/2214-4609.201902184
+
+* Pedro Correia, Yves-Marie Meric, François Geffroy, Hélène Binet, Jean-Marc Chautru, and Nicolas Nosjean-Gorgeu, [Emergence of edge scenarios in uncertainty studies for reservoir trap analysis](https://library.seg.org/doi/10.1190/segam2019-3214431.1), SEG Technical Program Expanded Abstracts 2019, https://doi.org/10.1190/segam2019-3214431.1
+
+* F. Geffroy, P. Correia, H. Binet, J. Chautru, D. Renard and N. Nosjea-Gorgeu, [Integration of Fault Location Uncertainty in Time to Depth Conversion](https://www.earthdoc.org/content/papers/10.3997/2214-4609.201900743), 81st EAGE Conference and Exhibition 2019, Jun 2019, Volume 2019, p.1 - 5, https://doi.org/10.3997/2214-4609.201900743
+
 * H. Binet, P. Correia, N. Nosjean-Gorgeu, D. Renard, F. Geffroy, J.M. Chautru, D. Garner, [Proper Systemic Knowledge of Reservoir Volume Uncertainties in Depth Conversion](http://www.cspg.org/cspg/documents/Conference%20Website/Gussow/Archives/2018/Extended/Poster/D.Garner.pdf), Closing the Gap III - Advances in Applied Geomodeling for Hydrocarbon Reservoirs, October 8-11, Lake Louise, Alberta - Canada (2018)
 
 * J.M. Chautru, N. Nosjean-Gorgeu, D. Renard, H. Binet and P. Correia; [A Case Study Of A New Time-Depth Conversion Workflow Designed For Optimizing Recovery](http://www.earthdoc.org/publication/publicationdetails/?publication=93943), ECMOR XVI - 16th European Conference on the Mathematics of Oil Recovery - ECMOR XVI Poster Session 2, 3 September 2018, DOI: 10.3997/2214-4609.201802197 (2018)
