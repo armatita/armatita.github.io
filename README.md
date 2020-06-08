@@ -16,7 +16,7 @@ in [2009](https://fenix.tecnico.ulisboa.pt/downloadFile/395139480478/NaturalFrac
 fields of mathematics applied to geosciences and released open-source software such as [Fillworks](https://sourceforge.net/projects/fillworks/),
 [ECMWF parser](https://sourceforge.net/projects/ecmwfparser/) and [GEOMS2](https://sourceforge.net/projects/geoms2/?source=directory).
 In 2014 became Assistant Lecturer for two MSc level courses at [IST](https://tecnico.ulisboa.pt/en/) and by 2016 joined [Geovariances](http://www.geovariances.com/en/) 
-as Software Engineer. Independently it has developed several free [Educational Apps](https://play.google.com/store/apps/dev?id=6135518111922353974&hl=en) 
+as Software Engineer. During the course of almost 4 years, has developed [UncerTZ/Isatis.neo Petroleum](https://www.geovariances.com/en/news/uncertz-consortium-time-depth-conversion-evolved/), as well as designed its brand and visual communication. More recently, in 2019, joined [Eyeware](https://eyeware.tech/) as UI\UX Consultant for which it builds end user products related to gaze tracking using volumetric video. Independently it has developed several free [Educational Apps](https://play.google.com/store/apps/dev?id=6135518111922353974&hl=en) 
 for Android and frequently releases online publications and software.
 
 <a id="Index"></a>
@@ -55,7 +55,7 @@ I've produced desktop software in several scientific fields, both commercial and
 <a id="Commercial-Software"></a>
 ## Commercial Software 
 
-* [GazeSense](https://eyeware.tech/gazesense/) - Performed functions on the level of architecture, UX, UI, and graphical design. GazeSense is a software specialized in unassisted gaze tracking.
+* [GazeSense](https://eyeware.tech/gazesense/) - Performed functions on the level of architecture, core technology, UX\UI, and graphical design. GazeSense is a software specialized in unassisted gaze tracking.
 
 * [Isatis.neo](https://www.geovariances.com/en/software-geovariances/) - It developed tools for this and other software solutions in Geovariances. Isatis.neo and other Geovariances products use geostatistics to perform spatial estimation in several sectors related to spatial imaging, namely Oil & Gas, Mining, Environment, Hydrogeology, Contamination, etc.
 
@@ -107,12 +107,18 @@ a GUI supported environment.
 <a id="Work-Experience"></a>
 # Work Experience
 
-I've worked in a reserach center (in geosciences), as university assistant lecturer and as a software engineer in a company which develops software for scientific purposes. I've also, at some point, started my own endeavour (with a friend) in building a company to produce digital products for education.
+I've worked in a research center (in geosciences), as university assistant lecturer, as a software engineer in a company which develops software for scientific purposes, and UX Consultant in software for gaze tracking. I've also, at some point, started my own endeavour (with a friend) in building a company to produce digital products for education.
 
 <a id="Consultant-UI-Eyeware"></a>
 ## Consultant (UI\Software Engineering) (Eyeware, Switzerland)
 
-Based in Lisbon. Started working for [Eyeware](https://eyeware.tech/) in September, 2019. It is part of my functions to further develop Eyeware products, namely the UI\UX for [GazeSense](https://eyeware.tech/gazesense/).
+Based in Lisbon. Started working for [Eyeware](https://eyeware.tech/) in September, 2019. It is part of my functions to further develop Eyeware products, namely the UI\UX for [GazeSense](https://eyeware.tech/gazesense/). On the course of my stay at Eyeware I've:
+
+* Designed a workflow to perform gaze tracking in the Retail sector.
+* Designed the 3d visualization engine (OpenGL bases) powering GazeSense scene builder and viewer.
+* Contributed to the development of the core gaze tracking technology.
+* Refactored Eyeware products using solid programming and UX patterns.
+* Built and designed a new product line for desktop based gaze tracking.
 
 <a id="Software-Engineer-Geovariances"></a>
 ## Software Engineer (Geovariances, France)
@@ -146,7 +152,7 @@ Besides the completion of the main target some other of my achievements in Geova
 <a id="Co-Founder-anteia"></a>
 ## Co-Founder (anteia)
 
-In 2014 and 2015 me a friend started a project company named "anteia" with the pursuit of building software for scientific and educational purposes. A bit more than year on the going we had to halt the project due to lack of funding. However, in the meanwhile several different educational products and demos were released and presented to potential clients.
+In 2014 and 2015 me a friend started a project company named "anteia" with the objective of building software for scientific and educational purposes. A bit more than year on the going we had to halt the project due to lack of funding. However, in the meanwhile several different educational products and demos were released and presented to potential clients.
 
 * The Math Adventures of Oscar - an android game to teach basic math. (See: [Educational Apps](#Educational-Apps))
 * The Algebra Adventures of Oscar - a more advanced version of the previous game presenting formula directly. (See: [Educational Apps](#Educational-Apps))
