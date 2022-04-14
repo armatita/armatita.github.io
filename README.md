@@ -123,6 +123,7 @@ Based in Lisbon. Started working for [Eyeware](https://eyeware.tech/) in Septemb
 * Contributed to the development of the core gaze tracking technology.
 * Refactored Eyeware products using solid programming and UX patterns.
 * Built and designed a new product line for desktop based gaze tracking.
+* Development work for the applications GazeSense, Beam, and AMD Privacy View, among others.
 
 <a id="Software-Engineer-Geovariances"></a>
 ## Software Engineer (Geovariances, France)
