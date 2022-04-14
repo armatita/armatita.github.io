@@ -55,6 +55,10 @@ I've produced desktop software in several scientific fields, both commercial and
 <a id="Commercial-Software"></a>
 ## Commercial Software 
 
+* [AMD Privacy View](https://www.amd.com/en/technologies/radeon-privacy-view) - Was part of the development team for AMD Privacy View, including UI/UX, backend, and feature development. AMD Privacy View is a desktop application made to safeguard your screen by blurring everything except the part you are looking at (among other features).
+
+* [Beam](https://beam.eyeware.tech/) - Developed multiple iterations for the desktop application Beam (there's an iOS counterpart also). Beam is a gaze tracker app to be used by gamers (augmented gamming using the head pose), streamers, among other content creators.
+
 * [GazeSense](https://eyeware.tech/gazesense/) - Performed functions on the level of architecture, core technology, UX\UI, and graphical design. GazeSense is a software specialized in unassisted gaze tracking.
 
 * [Isatis.neo](https://www.geovariances.com/en/software-geovariances/) - It developed tools for this and other software solutions in Geovariances. Isatis.neo and other Geovariances products use geostatistics to perform spatial estimation in several sectors related to spatial imaging, namely Oil & Gas, Mining, Environment, Hydrogeology, Contamination, etc.
