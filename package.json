@@ -1,0 +1,14 @@
+{
+    "name": "pedrocorreia",
+    "version": "1.0.0",
+    "description": "Pedro Correia personal webpage.",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+        "express": "~4.17.1"
+    },
+    "author": "Pedro Correia",
+    "license": "ISC"
+  }
