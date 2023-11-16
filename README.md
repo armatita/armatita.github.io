@@ -27,6 +27,7 @@ for Android and frequently releases online publications and software.
   * [Open-Source Software](#Open-Source-Software)
   * [Educational Apps](#Educational-Apps)
 * [Work Experience](#Work-Experience)
+  * [Scientific Software Engineer](#Scientific-Software-Engineer-RetinAI) 
   * [Consultant (UI\Software Engineering)](#Consultant-UI-Eyeware)
   * [Software Engineer](#Software-Engineer-Geovariances)
   * [Co-Founder](#Co-Founder-anteia)
