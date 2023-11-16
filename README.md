@@ -113,6 +113,12 @@ a GUI supported environment.
 
 I've worked in a research center (in geosciences), as university assistant lecturer, as a software engineer in a company which develops software for scientific purposes, and UX Consultant in software for gaze tracking. I've also, at some point, started my own endeavour (with a friend) in building a company to produce digital products for education.
 
+<a id="Scientific-Software-Engineer-RetinAI"></a>
+## Scientific Software Engineer (Retinai, Switzerland)
+
+Based in Lisbon. Started working for [RetinAI](https://www.retinai.com/) in July, 2022. I support research team within RetinAI with actions related with data processing, preparation, and analysis. I've also provided maintenance and development for clinical studies, such as [Razorbill](https://www.retinai.com/case-study/razorbill-study), [Better](https://www.retinai.com/case-study/better-study), or [CARDS](https://www.retinai.com/case-study/cards-study).
+
+
 <a id="Consultant-UI-Eyeware"></a>
 ## Consultant (UI\Software Engineering) (Eyeware, Switzerland)
 
