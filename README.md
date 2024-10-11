@@ -16,7 +16,7 @@ in [2009](https://fenix.tecnico.ulisboa.pt/downloadFile/395139480478/NaturalFrac
 fields of mathematics applied to geosciences and released open-source software such as [Fillworks](https://sourceforge.net/projects/fillworks/),
 [ECMWF parser](https://sourceforge.net/projects/ecmwfparser/) and [GEOMS2](https://sourceforge.net/projects/geoms2/?source=directory).
 In 2014 became Assistant Lecturer for two MSc level courses at [IST](https://tecnico.ulisboa.pt/en/) and by 2016 joined [Geovariances](http://www.geovariances.com/en/) 
-as Software Engineer. During the course of almost 4 years, has developed [UncerTZ/Isatis.neo Petroleum](https://www.geovariances.com/en/news/uncertz-consortium-time-depth-conversion-evolved/), as well as designed its brand and visual communication. More recently, in 2019, joined [Eyeware](https://eyeware.tech/) as UI\UX Consultant for which it builds end user products related to gaze tracking using volumetric video. Independently it has developed several free [Educational Apps](https://play.google.com/store/apps/dev?id=6135518111922353974&hl=en) 
+as Software Engineer. During the course of almost 4 years, has developed [UncerTZ/Isatis.neo Petroleum](https://www.geovariances.com/en/news/uncertz-consortium-time-depth-conversion-evolved/), as well as designed its brand and visual communication. In 2019, joined [Eyeware](https://eyeware.tech/) as UI\UX Consultant for which it buildt end user products related to gaze tracking using volumetric video. Currently working at [Ikerian](https://www.ikerian.com/) as a Scientific Software Engineer supporting R&D in AI assisted products in ophtalmology healthcare. Independently it has developed several free [Educational Apps](https://play.google.com/store/apps/dev?id=6135518111922353974&hl=en) 
 for Android and frequently releases online publications and software.
 
 <a id="Index"></a>
@@ -55,6 +55,8 @@ I've produced desktop software in several scientific fields, both commercial and
 
 <a id="Commercial-Software"></a>
 ## Commercial Software 
+
+* [Discovery](https://www.retinai.com/products/discovery) - Though my role was R&D oriented, I did develop some features, improvements, and fixes for the Discovery software. Namely regarding the handling and decoding of binary (proprietary and DICOM) data formats when importing into the software.
 
 * [AMD Privacy View](https://www.amd.com/en/technologies/radeon-privacy-view) - Was part of the development team for AMD Privacy View, including UI/UX, backend, and feature development. AMD Privacy View is a desktop application made to safeguard your screen by blurring everything except the part you are looking at (among other features).
 
