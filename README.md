@@ -33,7 +33,7 @@ for Android and frequently releases online publications and software.
   * [Co-Founder](#Co-Founder-anteia)
   * [University Assistant Lecturer](#Assistant-Lecturer-IST)
   * [Researcher](#Researcher-Cerena)
-  * [Data Annotation (AI)](#Data-Annotation-for-AI)
+  * [Data Annotation (AI)](#data-annotation-ai)
 * [Technical Literature](#Technical-Literature)
   * [Scientific Publications, eBooks, and Video Tutorials](#Scientific-Publications-eBooks-and-Video-Tutorials)
   * [White Papers](#White-Papers)
