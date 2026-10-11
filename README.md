@@ -219,7 +219,7 @@ My employer was research center [Cerena](https://cerena.ist.utl.pt/), part of [I
 <a id="Data Annotation for AI"></a>
 ## Data Annotation (AI)
 
-This is a freelance ocupation with meaningful time spent on creating challenges for AI models to attempt a resolution, and evaluation of the solution of AI models to specific problems. Besides the generalist types, I typically perform on tasks related with Coding, Reasoning, Mathematics. The contractor is [Data Annotation](https://www.dataannotation.tech/).
+This is a freelance ocupation with meaningful time spent on creating challenges for AI models to attempt a resolution, and evaluation of the solution of AI models to specific problems. Besides the generalist types, I typically perform on tasks related with Coding, Reasoning, Mathematics. The client is [Data Annotation](https://www.dataannotation.tech/).
 
 <sup>[Back to top](#Index)</sup>
 
