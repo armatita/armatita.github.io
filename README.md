@@ -33,6 +33,7 @@ for Android and frequently releases online publications and software.
   * [Co-Founder](#Co-Founder-anteia)
   * [University Assistant Lecturer](#Assistant-Lecturer-IST)
   * [Researcher](#Researcher-Cerena)
+  * [Data Annotation (AI)](#Data-Annotation-for-AI)
 * [Technical Literature](#Technical-Literature)
   * [Scientific Publications, eBooks, and Video Tutorials](#Scientific-Publications-eBooks-and-Video-Tutorials)
   * [White Papers](#White-Papers)
@@ -114,7 +115,7 @@ a GUI supported environment.
 <a id="Work-Experience"></a>
 # Work Experience
 
-I've worked in a research center (in geosciences), as university assistant lecturer, as a software engineer in a company which develops software for scientific purposes, and UX Consultant in software for gaze tracking. I've also, at some point, started my own endeavour (with a friend) in building a company to produce digital products for education.
+I've worked in a research center (in geosciences), as university assistant lecturer, as a software engineer in a company which develops software for scientific purposes, and UX Consultant in software for gaze tracking. I've also, at some point, started my own endeavour (with a friend) in building a company to produce digital products for education. Currently I'm a scientific software engineer at a medtech company, and often perform (freelancing) tasks on creation or evaluation of exercises for AI model annotation.
 
 <a id="Scientific-Software-Engineer-RetinAI"></a>
 ## Scientific Software Engineer (Retinai, Switzerland)
@@ -211,7 +212,14 @@ My employer was research center [Cerena](https://cerena.ist.utl.pt/), part of [I
 * 2013 - Has begun development of geoscience modeling software [GEOMS2](http://sourceforge.net/projects/geoms2/). 
 * 2014 - Has finished development of geosciences modeling software [GEOMS2](http://sourceforge.net/projects/geoms2/).
 * 2014 - Has done research in elastic seismic inversion (see: [Multidimensional scaling for the evaluation of a geostatistical seismic elastic inversion methodology](http://library.seg.org/doi/abs/10.1190/geo2013-0037.1)). 
-* 2015 - Has done research and development in gradient pore pressure modeling, specifically data analysis and visualization (see: [Gradient Pore Pressure Modelling with Uncertain Well Data](http://www.earthdoc.org/publication/publicationdetails/?publication=82232)). 
+* 2015 - Has done research and development in gradient pore pressure modeling, specifically data analysis and visualization (see: [Gradient Pore Pressure Modelling with Uncertain Well Data](http://www.earthdoc.org/publication/publicationdetails/?publication=82232)).
+
+<sup>[Back to top](#Index)</sup>
+
+<a id="Data Annotation for AI"></a>
+## Data Annotation (AI)
+
+This is a freelance ocupation with meaningful time spent on creating challenges for AI models to attempt a resolution, and evaluation of the solution of AI models to specific problems. Besides the generalist types, I typically perform on tasks related with Coding, Reasoning, Mathematics. The contractor is [Data Annotation](https://www.dataannotation.tech/).
 
 <sup>[Back to top](#Index)</sup>
 
